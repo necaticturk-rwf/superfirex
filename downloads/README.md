@@ -1,30 +1,26 @@
-# RAW IS WAR ring — v2
+# RAW IS WAR ring — v3
 
-**V1 renk hatası nedeniyle kullanımdan kaldırıldı. Güncel paket v2'dir.**
+**Güncel sürüm v3'tür. V1'de renk, v2'de ip animasyonu hatası vardır; eski paketleri kullanmayın.**
 
-[ROM, IPS ve ekran görüntülerini v2 ZIP olarak indir](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-is-war-v2.zip)
+[ROM, IPS, test kaydı ve kaynak araçları içeren V3 ZIP'i indir](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-is-war-v3.zip)
 
-ZIP'i yeni bir klasöre çıkarın. Snes9x'te **raw-is-war-v2.sfc** dosyasını açıp yeni maç başlatın. Eski maç içi save state yüklemeyin; SRAM ilerlemesini silmek gerekmez.
+ZIP'i yeni bir klasöre çıkarın. Snes9x'te **raw-is-war-v3.sfc** dosyasını açıp yeni maç başlatın. Eski maç içi save state'i kullanmayın; SRAM ilerlemesini silmek gerekmez. Hazır SFC'ye ayrıca IPS uygulamayın.
 
-HWA, HWF ve RANDOM seçeneklerinde açık gri mat, kırmızı ipler, koyu köşeler ve siyah/kırmızı/beyaz RAW apronu uygulanır. V1'de bazı palet yüklemeleri eski renkleri geri getiriyordu; v2 maç sırasında da RAW paletini korur.
+İp animasyonunun sabit grafik numaraları korunur; apron artık bu alanları kullanmaz. HWA/HWF/RANDOM aynı RAW tasarımını yükler. Açık gri mat, kırmızı ipler ve siyah/kırmızı/beyaz apron korunmuştur.
 
-HWA, HWF ve RANDOM seçenekleri resmî Snes9x 1.62.3 kaynaklarından derlenmiş Linux libretro çekirdeğinde normal açılış, maç ve hareket kontrollerinden geçti. V1 SRAM ile açılış da kontrol edildi. Windows arayüzü bu ortamda çalıştırılmadı.
+## Gerçek sekme testi kaydı
 
-## HWA
+![İplere koşma, sekme ve devamı — Snes9x 1.62.3 emülasyon kaydı](rope-rebound-v3.gif)
 
-![HWA — v2](ring-apron-v2-hwa.png)
+## Sekme sonrası
 
-## HWF
+![Sekme sonrası görünüm](rope-settled-v3.png)
 
-![HWF — v2](ring-apron-v2-hwf.png)
+Snes9x 1.62.3 Linux libretro çekirdeğinde HWA, HWF ve RANDOM için dört yönde koşma/bekleme dizileri denendi. Her seçimde 2.160 kare ve 6 animasyon başlangıcı boyunca kullanılan dinamik grafikler özgün ip/köşe grafikleriyle bayt düzeyinde karşılaştırıldı. Bilgisayar maçında 16.178 oyun karesi de kontrol edildi. Windows arayüzü burada çalıştırılmadı.
 
-## RANDOM
+[Doğrulama sonuçları](raw-is-war-v3-validation.json) · [Teknik notlar](RAW_RING_V3.md)
 
-![RANDOM — v2](ring-apron-v2-random.png)
+IPS yalnızca özgün Sydra v7 İngilizce çeviri ROM'una uygulanır; v1/v2 üzerine uygulanmaz.
 
-Hazır SFC kullanılıyorsa ayrıca IPS uygulanmaz. IPS yalnızca özgün Sydra v7 İngilizce çeviri ROM'una uygulanır; v1 üzerine uygulanmaz.
-
-[Teknik düzeltme ve doğrulama notları](RAW_RING_V2.md)
-
-ZIP SHA-256: `0c6eda11e48331d10da0487bc4fb823fb0e6c18d18d342508a100eddc7ce6abd`.
-ROM SHA-256: `7c009543e715b18e67ff5bdba47e2a9b51572b6de1445d87fc566781413dcefe`.
+ZIP SHA-256: `b5ffbcb2527a53f31230407ac442a33eb20c65a44544cf8da258e27d382cef23`.
+ROM SHA-256: `f3a6e07c10d3494b398d9c0c0883736f0e47f84f75113bd64adfb2629be62474`.

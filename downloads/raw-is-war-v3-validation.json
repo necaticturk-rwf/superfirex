@@ -1,0 +1,47 @@
+{
+  "rom_sha256": "f3a6e07c10d3494b398d9c0c0883736f0e47f84f75113bd64adfb2629be62474",
+  "snes9x_tag": "1.62.3",
+  "snes9x_commit": "8b82d487937d9ea39f7229d280c6f6686c415fe7",
+  "tests": [
+    {
+      "ring": "HWA",
+      "original_graphics_variant": "HWA",
+      "cpu": false,
+      "frames_checked": 2160,
+      "frames_with_map_updates": 1361,
+      "animation_starts": 6,
+      "updated_rope_cells": 106,
+      "verified_dynamic_entries": 69
+    },
+    {
+      "ring": "HWF",
+      "original_graphics_variant": "HWA",
+      "cpu": false,
+      "frames_checked": 2160,
+      "frames_with_map_updates": 1361,
+      "animation_starts": 6,
+      "updated_rope_cells": 106,
+      "verified_dynamic_entries": 69
+    },
+    {
+      "ring": "RANDOM",
+      "original_graphics_variant": "HWA",
+      "cpu": false,
+      "frames_checked": 2160,
+      "frames_with_map_updates": 1361,
+      "animation_starts": 6,
+      "updated_rope_cells": 106,
+      "verified_dynamic_entries": 69
+    },
+    {
+      "ring": "HWA",
+      "original_graphics_variant": "HWA",
+      "cpu": true,
+      "frames_checked": 16178,
+      "frames_with_map_updates": 13293,
+      "animation_starts": 2,
+      "updated_rope_cells": 988,
+      "verified_dynamic_entries": 36
+    }
+  ]
+}
