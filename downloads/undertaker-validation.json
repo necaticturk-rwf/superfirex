@@ -1,0 +1,21 @@
+{
+  "cold_sram_load": true,
+  "edit_record_roundtrip": true,
+  "slot": 1,
+  "finisher": "TOMBSTONE",
+  "critical": "finisher",
+  "stat_scale": "1..5",
+  "edit_points": 84,
+  "edit_ceiling": 180,
+  "cpu_frames_checked": 15023,
+  "reached_results": true,
+  "rope_animation_starts": 1,
+  "verified_rope_entries": 35,
+  "observed_winner": "UNDERTAKER",
+  "observed_opponent": "GOTO",
+  "observed_result": "PIN",
+  "observed_match_time": "4M 5S",
+  "core_version": "Snes9x 1.62.3",
+  "core_platform": "Linux libretro",
+  "windows_frontend_tested": false
+}

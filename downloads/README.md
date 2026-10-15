@@ -1,3 +1,21 @@
+# Undertaker — Ministry 1998–1999 — v1
+
+[**SFC + SRAM içeren paketi indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-ministry-undertaker-v1.zip)
+
+SFC ve aynı adlı SRM birlikte kullanılır. SRM'yi Snes9x'in SRAM/Battery kayıt klasörüne koyup yeni SFC'yi normal açılıştan başlatın. **DREAM MATCH → EDIT → TAKER**. Eski save state'i yüklemeyin. Önceki kayıtlarınızı bu yeni SRM ile değiştirmeyin.
+
+Tombstone, Chokeslam, Big Boot ve Flying Clothesline; siyah kıyafet/botlar, güç/dayanıklılık ayarları ve CPU bitirici tercihleri dahil. Kabul edilen RAW ring v3 korunur. Görünüm mevcut SNES Undertaker modeline dayanır; dövme/göğüs sembolü birebir değildir.
+
+[Kurulum ve profil notları](UNDERTAKER_MINISTRY_V1.md) · [Profil verileri](undertaker-profile.json) · [Test sonucu](undertaker-validation.json)
+
+![Gerçek oyun kaydı](undertaker-gameplay.gif)
+
+![Kayıttan yüklenen edit karakteri](undertaker-loaded-edit.png)
+
+[Tombstone demosu](undertaker-tombstone.gif) · [Chokeslam demosu](undertaker-chokeslam.gif)
+
+---
+
 # RAW IS WAR ring — v3
 
 **Güncel sürüm v3'tür. V1'de renk, v2'de ip animasyonu hatası vardır; eski paketleri kullanmayın.**

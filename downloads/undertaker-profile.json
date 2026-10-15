@@ -1,0 +1,367 @@
+{
+  "name": "UNDERTAKER",
+  "short_name": "TAKER",
+  "era": "1998–1999 Ministry",
+  "promotion": "EDIT",
+  "slot": 1,
+  "native_body_id": 63,
+  "native_face_id": 63,
+  "stats_scale": [
+    1,
+    5
+  ],
+  "attack": {
+    "THRUST": 4,
+    "KICK": 3,
+    "THROW": 5,
+    "JOINT": 2,
+    "SUBMIS": 2,
+    "FLYING": 3,
+    "RUSH": 4,
+    "ARM": 5,
+    "TECH": 3,
+    "RUFF": 5
+  },
+  "defense": {
+    "HIT": 5,
+    "KICK": 4,
+    "BASIC": 5,
+    "JOINT": 3,
+    "SUBMIS": 3,
+    "FLYING": 3,
+    "TOUGH": 5,
+    "LARIAT": 5,
+    "TECH": 4,
+    "RUFF": 5,
+    "NK": 5,
+    "UPPER": 5
+  },
+  "skills": {
+    "style": "ORTHODOX",
+    "counter": "POWER",
+    "recovery": "FAST",
+    "cut_recovery": "NORM",
+    "speed": "NORM",
+    "climb": "MED SLOW",
+    "critical": "FINISHER",
+    "ring_count": 10,
+    "rope_stop": false
+  },
+  "edit_points": 84,
+  "edit_ceiling": 180,
+  "finisher_slot_zero_based": 31,
+  "cpu": {
+    "walking": [
+      55,
+      35,
+      10
+    ],
+    "walking_2": [
+      60,
+      35,
+      5
+    ],
+    "late_grapple_Y_B_A_X_YB": [
+      5,
+      10,
+      20,
+      0,
+      65
+    ],
+    "other_tables": "Game defaults"
+  },
+  "moves": [
+    {
+      "slot": 0,
+      "id": "0x0007",
+      "name": "PUNCH"
+    },
+    {
+      "slot": 1,
+      "id": "0x002E",
+      "name": "KICK"
+    },
+    {
+      "slot": 2,
+      "id": "0x0052",
+      "name": "THRUST KICK"
+    },
+    {
+      "slot": 3,
+      "id": "0x00C6",
+      "name": "KENKA KICK"
+    },
+    {
+      "slot": 4,
+      "id": "0x00EE",
+      "name": "FLY CLOTHESLINE"
+    },
+    {
+      "slot": 5,
+      "id": "0x0140",
+      "name": "THRUST KICK"
+    },
+    {
+      "slot": 6,
+      "id": "0x01A2",
+      "name": "POWER SLAM"
+    },
+    {
+      "slot": 7,
+      "id": "0x01BB",
+      "name": "LARIAT"
+    },
+    {
+      "slot": 8,
+      "id": "0x01BB",
+      "name": "LARIAT"
+    },
+    {
+      "slot": 9,
+      "id": "0x01DF",
+      "name": "THRUST KICK"
+    },
+    {
+      "slot": 10,
+      "id": "0x01F8",
+      "name": "PLANCHA SUICIDA"
+    },
+    {
+      "slot": 11,
+      "id": "0x0000",
+      "name": "NONE"
+    },
+    {
+      "slot": 12,
+      "id": "0x0000",
+      "name": "NONE"
+    },
+    {
+      "slot": 13,
+      "id": "0x022C",
+      "name": "DIVING ELBOW"
+    },
+    {
+      "slot": 14,
+      "id": "0x0228",
+      "name": "DIVING FIST DROP"
+    },
+    {
+      "slot": 15,
+      "id": "0x0000",
+      "name": "NONE"
+    },
+    {
+      "slot": 16,
+      "id": "0x0000",
+      "name": "NONE"
+    },
+    {
+      "slot": 17,
+      "id": "0x0298",
+      "name": "HEAD ELBOW"
+    },
+    {
+      "slot": 18,
+      "id": "0x0596",
+      "name": "HAMMER THROW"
+    },
+    {
+      "slot": 19,
+      "id": "0x029D",
+      "name": "BODY PUNCH"
+    },
+    {
+      "slot": 20,
+      "id": "0x02A9",
+      "name": "HAMMER BLOW"
+    },
+    {
+      "slot": 21,
+      "id": "0x02B6",
+      "name": "BODY SLAM"
+    },
+    {
+      "slot": 22,
+      "id": "0x02B8",
+      "name": "GORILLA SLAM"
+    },
+    {
+      "slot": 23,
+      "id": "0x02C7",
+      "name": "HEAD BUTT"
+    },
+    {
+      "slot": 24,
+      "id": "0x02E2",
+      "name": "DELAYED BUSTER"
+    },
+    {
+      "slot": 25,
+      "id": "0x02FF",
+      "name": "SIDE BUSTER"
+    },
+    {
+      "slot": 26,
+      "id": "0x0301",
+      "name": "DDT"
+    },
+    {
+      "slot": 27,
+      "id": "0x0334",
+      "name": "BEAR HUG"
+    },
+    {
+      "slot": 28,
+      "id": "0x0365",
+      "name": "CHOKE SLAM"
+    },
+    {
+      "slot": 29,
+      "id": "0x0354",
+      "name": "FRONT RUSH"
+    },
+    {
+      "slot": 30,
+      "id": "0x03B9",
+      "name": "REV TOMBSTONE"
+    },
+    {
+      "slot": 31,
+      "id": "0x030D",
+      "name": "TOMBSTONE"
+    },
+    {
+      "slot": 32,
+      "id": "0x03E7",
+      "name": "NECK SMASH"
+    },
+    {
+      "slot": 33,
+      "id": "0x03F5",
+      "name": "BACKDROP"
+    },
+    {
+      "slot": 34,
+      "id": "0x0410",
+      "name": "SLEEPER"
+    },
+    {
+      "slot": 35,
+      "id": "0x03F5",
+      "name": "BACKDROP"
+    },
+    {
+      "slot": 36,
+      "id": "0x03F9",
+      "name": "SIDE BUSTER"
+    },
+    {
+      "slot": 37,
+      "id": "0x03F5",
+      "name": "BACKDROP"
+    },
+    {
+      "slot": 38,
+      "id": "0x045D",
+      "name": "SNAP MARE"
+    },
+    {
+      "slot": 39,
+      "id": "0x0463",
+      "name": "REVERSAL"
+    },
+    {
+      "slot": 40,
+      "id": "0x047A",
+      "name": "GUILLOTINE DROP"
+    },
+    {
+      "slot": 41,
+      "id": "0x049E",
+      "name": "STOMP"
+    },
+    {
+      "slot": 42,
+      "id": "0x04C3",
+      "name": "STOMP"
+    },
+    {
+      "slot": 43,
+      "id": "0x04D8",
+      "name": "STOMP"
+    },
+    {
+      "slot": 44,
+      "id": "0x04EF",
+      "name": "PIN"
+    },
+    {
+      "slot": 45,
+      "id": "0x04F5",
+      "name": "HOOK PIN"
+    },
+    {
+      "slot": 46,
+      "id": "0x04FD",
+      "name": "PIN"
+    },
+    {
+      "slot": 47,
+      "id": "0x0503",
+      "name": "HOOK PIN"
+    },
+    {
+      "slot": 48,
+      "id": "0x050B",
+      "name": "TOP ROPE BUSTER"
+    },
+    {
+      "slot": 49,
+      "id": "0x0522",
+      "name": "STOMACH KICK"
+    },
+    {
+      "slot": 50,
+      "id": "0x0000",
+      "name": "NONE"
+    },
+    {
+      "slot": 51,
+      "id": "0x030D",
+      "name": "TOMBSTONE"
+    },
+    {
+      "slot": 52,
+      "id": "0x029D",
+      "name": "BODY PUNCH"
+    },
+    {
+      "slot": 53,
+      "id": "0x03F2",
+      "name": "SLEDGE HAMMER"
+    },
+    {
+      "slot": 54,
+      "id": "0x056B",
+      "name": "Throat cut"
+    },
+    {
+      "slot": 55,
+      "id": "0x0558",
+      "name": "Kneeling arm raise"
+    },
+    {
+      "slot": 56,
+      "id": "0x053B",
+      "name": "Both arms raise"
+    }
+  ],
+  "limitations": [
+    "Uses existing native body and portrait",
+    "No individually drawn tattoos or Ministry chest symbol",
+    "No custom Old School rope-walk animation",
+    "No Last Ride or Hells Gate",
+    "No custom entrance music"
+  ]
+}
