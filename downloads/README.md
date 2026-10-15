@@ -1,17 +1,30 @@
-# RAW IS WAR ring — ilk sürüm
+# RAW IS WAR ring — v2
 
-[ROM, IPS yaması ve ekran görüntülerini ZIP olarak indir](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-is-war-v1.zip)
+**V1 renk hatası nedeniyle kullanımdan kaldırıldı. Güncel paket v2'dir.**
 
-ZIP içindeki `raw-is-war-v1.sfc` dosyasını SNES emülatöründe açın. **HWA ringini seçip yeni maç başlatın.** Eski maç içi save state dosyalarını yüklemeyin.
+[ROM, IPS ve ekran görüntülerini v2 ZIP olarak indir](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-is-war-v2.zip)
 
-Açık gri ve logosuz mat, kırmızı ipler, koyu köşeler ve siyah apron üzerinde kırmızı-beyaz RAW IS WAR yazısı uygulanmıştır.
+ZIP'i yeni bir klasöre çıkarın. Snes9x'te **raw-is-war-v2.sfc** dosyasını açıp yeni maç başlatın. Eski maç içi save state yüklemeyin; SRAM ilerlemesini silmek gerekmez.
 
-![Oyun içi apron görünümü](ring-apron.png)
+HWA, HWF ve RANDOM seçeneklerinde açık gri mat, kırmızı ipler, koyu köşeler ve siyah/kırmızı/beyaz RAW apronu uygulanır. V1'de bazı palet yüklemeleri eski renkleri geri getiriyordu; v2 maç sırasında da RAW paletini korur.
 
-![Oyun içi mat görünümü](ring-mat.png)
+HWA, HWF ve RANDOM seçenekleri resmî Snes9x 1.62.3 kaynaklarından derlenmiş Linux libretro çekirdeğinde normal açılış, maç ve hareket kontrollerinden geçti. V1 SRAM ile açılış da kontrol edildi. Windows arayüzü bu ortamda çalıştırılmadı.
 
-IPS yaması yalnızca depodaki Sydra v7 İngilizce çeviri ROM'u içindir. Orijinal ROM SHA-256: `30a774f32e3e132d7e0c16f964a59b8720c1cc081e20159f85a22635f13e28fa`.
+## HWA
 
-Yamalı ROM, normal açılıştan maça geçiş ve hareket kontrolleriyle Snes9x üzerinde doğrulandı. İlk sürümün doğrulama hedefi HWA ringidir; diğer ring seçenekleri doğrulanmadı.
+![HWA — v2](ring-apron-v2-hwa.png)
 
-ZIP SHA-256: `50b16cb113fd7acbcffe24cd5b1e7e75526d5d7da3a63b5af1741551c06ab62a`.
+## HWF
+
+![HWF — v2](ring-apron-v2-hwf.png)
+
+## RANDOM
+
+![RANDOM — v2](ring-apron-v2-random.png)
+
+Hazır SFC kullanılıyorsa ayrıca IPS uygulanmaz. IPS yalnızca özgün Sydra v7 İngilizce çeviri ROM'una uygulanır; v1 üzerine uygulanmaz.
+
+[Teknik düzeltme ve doğrulama notları](RAW_RING_V2.md)
+
+ZIP SHA-256: `0c6eda11e48331d10da0487bc4fb823fb0e6c18d18d342508a100eddc7ce6abd`.
+ROM SHA-256: `7c009543e715b18e67ff5bdba47e2a9b51572b6de1445d87fc566781413dcefe`.
