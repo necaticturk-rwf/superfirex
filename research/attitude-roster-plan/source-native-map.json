@@ -1,0 +1,674 @@
+[
+  {
+    "source_name": "Fujinami",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 2,
+    "profile_offset": 296065,
+    "face_id": 0,
+    "body_id": 0
+  },
+  {
+    "source_name": "Chosyu",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 3,
+    "profile_offset": 296363,
+    "face_id": 1,
+    "body_id": 1
+  },
+  {
+    "source_name": "Muto",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 4,
+    "profile_offset": 297257,
+    "face_id": 4,
+    "body_id": 4
+  },
+  {
+    "source_name": "Chono",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 5,
+    "profile_offset": 296959,
+    "face_id": 3,
+    "body_id": 3
+  },
+  {
+    "source_name": "Hashimoto",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 6,
+    "profile_offset": 296661,
+    "face_id": 2,
+    "body_id": 2
+  },
+  {
+    "source_name": "Sasaki",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 7,
+    "profile_offset": 297853,
+    "face_id": 6,
+    "body_id": 6
+  },
+  {
+    "source_name": "Hase",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 8,
+    "profile_offset": 297555,
+    "face_id": 5,
+    "body_id": 5
+  },
+  {
+    "source_name": "Tenzan",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 9,
+    "profile_offset": 298151,
+    "face_id": 7,
+    "body_id": 7
+  },
+  {
+    "source_name": "Jyushin Lyger",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 12,
+    "profile_offset": 299343,
+    "face_id": 11,
+    "body_id": 11
+  },
+  {
+    "source_name": "Wild Pegasus",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 13,
+    "profile_offset": 299641,
+    "face_id": 12,
+    "body_id": 12
+  },
+  {
+    "source_name": "Black Tiger",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 14,
+    "profile_offset": 299939,
+    "face_id": 13,
+    "body_id": 13
+  },
+  {
+    "source_name": "El Samurai",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 15,
+    "profile_offset": 300237,
+    "face_id": 14,
+    "body_id": 14
+  },
+  {
+    "source_name": "Honaga",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 16,
+    "profile_offset": 300535,
+    "face_id": 15,
+    "body_id": 15
+  },
+  {
+    "source_name": "Koji",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 17,
+    "profile_offset": 300833,
+    "face_id": 16,
+    "body_id": 16
+  },
+  {
+    "source_name": "Ohtani",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 18,
+    "profile_offset": 301131,
+    "face_id": 17,
+    "body_id": 17
+  },
+  {
+    "source_name": "Kido",
+    "source_group": "NEW JAPAN",
+    "source_encoded_id": 19,
+    "profile_offset": 299045,
+    "face_id": 10,
+    "body_id": 10
+  },
+  {
+    "source_name": "Jim Miny",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 256,
+    "profile_offset": 302919,
+    "face_id": 23,
+    "body_id": 23
+  },
+  {
+    "source_name": "Cujo",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 257,
+    "profile_offset": 303217,
+    "face_id": 24,
+    "body_id": 24
+  },
+  {
+    "source_name": "Taue",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 258,
+    "profile_offset": 303813,
+    "face_id": 26,
+    "body_id": 26
+  },
+  {
+    "source_name": "Jack Chan",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 259,
+    "profile_offset": 303515,
+    "face_id": 25,
+    "body_id": 25
+  },
+  {
+    "source_name": "Jumbo Tsuruta",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 260,
+    "profile_offset": 304111,
+    "face_id": 27,
+    "body_id": 27
+  },
+  {
+    "source_name": "Fuchi",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 261,
+    "profile_offset": 304409,
+    "face_id": 28,
+    "body_id": 28
+  },
+  {
+    "source_name": "Hal Snow",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 262,
+    "profile_offset": 305005,
+    "face_id": 30,
+    "body_id": 30
+  },
+  {
+    "source_name": "Gorf",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 263,
+    "profile_offset": 304707,
+    "face_id": 29,
+    "body_id": 29
+  },
+  {
+    "source_name": "Stan Hansen",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 265,
+    "profile_offset": 305303,
+    "face_id": 31,
+    "body_id": 31
+  },
+  {
+    "source_name": "Steve Williams",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 267,
+    "profile_offset": 305601,
+    "face_id": 32,
+    "body_id": 32
+  },
+  {
+    "source_name": "Gary Albright",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 268,
+    "profile_offset": 317521,
+    "face_id": 72,
+    "body_id": 72
+  },
+  {
+    "source_name": "Johnny Ace",
+    "source_group": "ALL JAPAN",
+    "source_encoded_id": 269,
+    "profile_offset": 306197,
+    "face_id": 34,
+    "body_id": 34
+  },
+  {
+    "source_name": "Mars",
+    "source_group": "IW",
+    "source_encoded_id": 512,
+    "profile_offset": 307091,
+    "face_id": 37,
+    "body_id": 37
+  },
+  {
+    "source_name": "Hayabu",
+    "source_group": "IW",
+    "source_encoded_id": 514,
+    "profile_offset": 308283,
+    "face_id": 41,
+    "body_id": 41
+  },
+  {
+    "source_name": "Mister Pogo",
+    "source_group": "IW",
+    "source_encoded_id": 515,
+    "profile_offset": 307687,
+    "face_id": 39,
+    "body_id": 39
+  },
+  {
+    "source_name": "Tarzan Goto",
+    "source_group": "IW",
+    "source_encoded_id": 516,
+    "profile_offset": 307389,
+    "face_id": 38,
+    "body_id": 38
+  },
+  {
+    "source_name": "Terry Gordy",
+    "source_group": "IW",
+    "source_encoded_id": 517,
+    "profile_offset": 305899,
+    "face_id": 33,
+    "body_id": 33
+  },
+  {
+    "source_name": "Ricky Fuji",
+    "source_group": "IW",
+    "source_encoded_id": 518,
+    "profile_offset": 307985,
+    "face_id": 40,
+    "body_id": 40
+  },
+  {
+    "source_name": "Tiger Singh",
+    "source_group": "IW",
+    "source_encoded_id": 519,
+    "profile_offset": 321693,
+    "face_id": 86,
+    "body_id": 86
+  },
+  {
+    "source_name": "Tenryo",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 768,
+    "profile_offset": 308879,
+    "face_id": 43,
+    "body_id": 43
+  },
+  {
+    "source_name": "Hara",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 769,
+    "profile_offset": 309177,
+    "face_id": 44,
+    "body_id": 44
+  },
+  {
+    "source_name": "Fuyuki",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 770,
+    "profile_offset": 309475,
+    "face_id": 45,
+    "body_id": 45
+  },
+  {
+    "source_name": "Ultimo Dragon",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 772,
+    "profile_offset": 310369,
+    "face_id": 48,
+    "body_id": 48
+  },
+  {
+    "source_name": "Jado",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 773,
+    "profile_offset": 309773,
+    "face_id": 46,
+    "body_id": 46
+  },
+  {
+    "source_name": "Gedo",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 774,
+    "profile_offset": 310071,
+    "face_id": 47,
+    "body_id": 47
+  },
+  {
+    "source_name": "Ricky Krin",
+    "source_group": "R・Y・U",
+    "source_encoded_id": 775,
+    "profile_offset": 310667,
+    "face_id": 49,
+    "body_id": 49
+  },
+  {
+    "source_name": "Great Sasuke",
+    "source_group": "MICHINOKU",
+    "source_encoded_id": 1024,
+    "profile_offset": 311263,
+    "face_id": 51,
+    "body_id": 51
+  },
+  {
+    "source_name": "Spel Delfin",
+    "source_group": "MICHINOKU",
+    "source_encoded_id": 1025,
+    "profile_offset": 311561,
+    "face_id": 52,
+    "body_id": 52
+  },
+  {
+    "source_name": "Bill Lee",
+    "source_group": "MICHINOKU",
+    "source_encoded_id": 1027,
+    "profile_offset": 311859,
+    "face_id": 53,
+    "body_id": 53
+  },
+  {
+    "source_name": "Sato",
+    "source_group": "MICHINOKU",
+    "source_encoded_id": 1028,
+    "profile_offset": 312157,
+    "face_id": 54,
+    "body_id": 54
+  },
+  {
+    "source_name": "Taka Michinok",
+    "source_group": "MICHINOKU",
+    "source_encoded_id": 1029,
+    "profile_offset": 312455,
+    "face_id": 55,
+    "body_id": 55
+  },
+  {
+    "source_name": "Shiro Koshi",
+    "source_group": "HEISEI",
+    "source_encoded_id": 1280,
+    "profile_offset": 313051,
+    "face_id": 57,
+    "body_id": 57
+  },
+  {
+    "source_name": "Meng Lo",
+    "source_group": "HEISEI",
+    "source_encoded_id": 1281,
+    "profile_offset": 313349,
+    "face_id": 58,
+    "body_id": 58
+  },
+  {
+    "source_name": "Goto",
+    "source_group": "HEISEI",
+    "source_encoded_id": 1282,
+    "profile_offset": 313647,
+    "face_id": 59,
+    "body_id": 59
+  },
+  {
+    "source_name": "Mikey King",
+    "source_group": "HEISEI",
+    "source_encoded_id": 1283,
+    "profile_offset": 313945,
+    "face_id": 60,
+    "body_id": 60
+  },
+  {
+    "source_name": "Great Kabuki",
+    "source_group": "HEISEI",
+    "source_encoded_id": 1284,
+    "profile_offset": 314243,
+    "face_id": 61,
+    "body_id": 61
+  },
+  {
+    "source_name": "Hulk Hogan",
+    "source_group": "WC",
+    "source_encoded_id": 1536,
+    "profile_offset": 314541,
+    "face_id": 62,
+    "body_id": 62
+  },
+  {
+    "source_name": "Undertaker",
+    "source_group": "WC",
+    "source_encoded_id": 1538,
+    "profile_offset": 314839,
+    "face_id": 63,
+    "body_id": 63
+  },
+  {
+    "source_name": "Vader",
+    "source_group": "WC",
+    "source_encoded_id": 1539,
+    "profile_offset": 315137,
+    "face_id": 64,
+    "body_id": 64
+  },
+  {
+    "source_name": "Great Muta",
+    "source_group": "WC",
+    "source_encoded_id": 1540,
+    "profile_offset": 316031,
+    "face_id": 67,
+    "body_id": 67
+  },
+  {
+    "source_name": "Rick Steiner",
+    "source_group": "WC",
+    "source_encoded_id": 1541,
+    "profile_offset": 315435,
+    "face_id": 65,
+    "body_id": 65
+  },
+  {
+    "source_name": "Scott Steiner",
+    "source_group": "WC",
+    "source_encoded_id": 1542,
+    "profile_offset": 315733,
+    "face_id": 66,
+    "body_id": 66
+  },
+  {
+    "source_name": "Todd Zilla",
+    "source_group": "UWFI",
+    "source_encoded_id": 1792,
+    "profile_offset": 316925,
+    "face_id": 70,
+    "body_id": 70
+  },
+  {
+    "source_name": "Kal El",
+    "source_group": "UWFI",
+    "source_encoded_id": 1793,
+    "profile_offset": 317819,
+    "face_id": 73,
+    "body_id": 73
+  },
+  {
+    "source_name": "Ben Sham",
+    "source_group": "UWFI",
+    "source_encoded_id": 1794,
+    "profile_offset": 318117,
+    "face_id": 74,
+    "body_id": 74
+  },
+  {
+    "source_name": "Dax",
+    "source_group": "PR",
+    "source_encoded_id": 2048,
+    "profile_offset": 318415,
+    "face_id": 75,
+    "body_id": 75
+  },
+  {
+    "source_name": "Chris Dolman",
+    "source_group": "PR",
+    "source_encoded_id": 2049,
+    "profile_offset": 318713,
+    "face_id": 76,
+    "body_id": 76
+  },
+  {
+    "source_name": "Dick Vrij",
+    "source_group": "PR",
+    "source_encoded_id": 2050,
+    "profile_offset": 319011,
+    "face_id": 77,
+    "body_id": 77
+  },
+  {
+    "source_name": "Volk Han",
+    "source_group": "PR",
+    "source_encoded_id": 2051,
+    "profile_offset": 319309,
+    "face_id": 78,
+    "body_id": 78
+  },
+  {
+    "source_name": "Bitsadze Tariel",
+    "source_group": "PR",
+    "source_encoded_id": 2052,
+    "profile_offset": 319607,
+    "face_id": 79,
+    "body_id": 79
+  },
+  {
+    "source_name": "Gung Ho",
+    "source_group": "PANTI",
+    "source_encoded_id": 2304,
+    "profile_offset": 319905,
+    "face_id": 80,
+    "body_id": 80
+  },
+  {
+    "source_name": "Ed Po",
+    "source_group": "PANCRASE",
+    "source_encoded_id": 2560,
+    "profile_offset": 320203,
+    "face_id": 81,
+    "body_id": 81
+  },
+  {
+    "source_name": "Suzuki",
+    "source_group": "PANCRASE",
+    "source_encoded_id": 2561,
+    "profile_offset": 320501,
+    "face_id": 82,
+    "body_id": 82
+  },
+  {
+    "source_name": "Ken Shamrock",
+    "source_group": "PANCRASE",
+    "source_encoded_id": 2562,
+    "profile_offset": 320799,
+    "face_id": 83,
+    "body_id": 83
+  },
+  {
+    "source_name": "Bas Rutten",
+    "source_group": "PANCRASE",
+    "source_encoded_id": 2563,
+    "profile_offset": 321395,
+    "face_id": 85,
+    "body_id": 85
+  },
+  {
+    "source_name": "Buff Ed",
+    "source_group": "PANCRASE",
+    "source_encoded_id": 2564,
+    "profile_offset": 321097,
+    "face_id": 84,
+    "body_id": 84
+  },
+  {
+    "source_name": "Dude Love",
+    "source_group": "FREELANCE",
+    "source_encoded_id": 2816,
+    "profile_offset": 317223,
+    "face_id": 71,
+    "body_id": 71
+  },
+  {
+    "source_name": "Koji K",
+    "source_group": "FREELANCE",
+    "source_encoded_id": 2817,
+    "profile_offset": 321991,
+    "face_id": 87,
+    "body_id": 87
+  },
+  {
+    "source_name": "Rickson Gracie",
+    "source_group": "M A",
+    "source_encoded_id": 3072,
+    "profile_offset": 322289,
+    "face_id": 88,
+    "body_id": 88
+  },
+  {
+    "source_name": "Maurice Smith",
+    "source_group": "M A",
+    "source_encoded_id": 3073,
+    "profile_offset": 322587,
+    "face_id": 89,
+    "body_id": 89
+  },
+  {
+    "source_name": "Daijiro Zama",
+    "source_group": "HWF",
+    "source_encoded_id": 3584,
+    "profile_offset": 324375,
+    "face_id": 95,
+    "body_id": 95
+  },
+  {
+    "source_name": "Eric Starback",
+    "source_group": "HWF",
+    "source_encoded_id": 3585,
+    "profile_offset": 324673,
+    "face_id": 96,
+    "body_id": 96
+  },
+  {
+    "source_name": "Baron Freebird",
+    "source_group": "HWF",
+    "source_encoded_id": 3586,
+    "profile_offset": 324971,
+    "face_id": 97,
+    "body_id": 97
+  },
+  {
+    "source_name": "John Saigo",
+    "source_group": "HWF",
+    "source_encoded_id": 3587,
+    "profile_offset": 325269,
+    "face_id": 98,
+    "body_id": 98
+  },
+  {
+    "source_name": "Wolf McSchneider",
+    "source_group": "HWF",
+    "source_encoded_id": 3588,
+    "profile_offset": 325567,
+    "face_id": 99,
+    "body_id": 99
+  },
+  {
+    "source_name": "Ho Long",
+    "source_group": "HWF",
+    "source_encoded_id": 3589,
+    "profile_offset": 325865,
+    "face_id": 100,
+    "body_id": 100
+  },
+  {
+    "source_name": "Jailbrakr Bullnoi",
+    "source_group": "HWF",
+    "source_encoded_id": 3590,
+    "profile_offset": 326163,
+    "face_id": 101,
+    "body_id": 101
+  },
+  {
+    "source_name": "Hayate",
+    "source_group": "HWF",
+    "source_encoded_id": 3591,
+    "profile_offset": 326461,
+    "face_id": 102,
+    "body_id": 102
+  }
+]

@@ -1,0 +1,49 @@
+WWF ATTITUDE ERA 84 — NATIVE BETA
+
+İlk oynanabilir kadro betası, 1997–2001 karması. 84 seçilebilir kimlik / 82 kişi.
+Mankind, Cactus Jack ve Dude Love ayrı Foley kimlikleridir.
+
+KULLANIM
+1. ZIP'i bir klasöre çıkar.
+2. raw-attitude-84-native-beta.sfc dosyasını Snes9x 1.62.3 ile aç.
+3. DREAM MATCH üzerinden yeni maç başlat. L/R ile WWF 01–06 sayfaları arasında geç.
+4. Sıra soldan sağa, sonra alttaki satırdır. İlk beş sayfa 16, son sayfa 4 karakter.
+5. Yeni kadro doğrudan ROM'dadır; EDIT'ten LOAD veya ek bir .srm dosyası gerekmez.
+Eski save-state yerine yeni ROM'u baştan aç. Eski state bellekteki eski kadroyu geri getirebilir.
+
+İÇERİK
+- Onaylanan 84 yerleşik kayıt hedef güreşçiye uyarlandı.
+- Yeni 32x32 portreler, yerleşik gövde/kıyafet/palet uyarlamaları.
+- Her profil için 57 hareket yuvası, bitirici yuvası, hücum/savunma nitelikleri ve CPU ayarları.
+- Undertaker 1998–1999 Ministry; Last Ride ve Hell's Gate bu profile eklenmedi.
+- Kabul edilen RAW IS WAR v3 ringi korunur: açık gri mat, kırmızı ipler, siyah apron.
+- 4 renk seçimi şu anda aynı kıyafeti kullanır.
+
+GÖRSEL VE HAREKET SINIRLARI
+Ring içi görünüşler mevcut modüler gövde çizimlerinin uyarlamalarıdır.
+Karaktere özel tam sprite çizimleri, tüm maskeler/dövmeler ve kıyafet logoları tamamlanmadı.
+Kadın karakterlerin ince gövde uyarlamaları geçicidir; özel kadın gövde çizimleri tamamlanmadı.
+Portreler yeni çizimlerdir; portre yenilenmesi maç içindeki yüz çizimini otomatik yenilemez.
+Birebir bulunmayan hareketlerde mevcut animasyonlar kullanıldı; ayrıntı MOVESETLER.md'de.
+Stunner, Pedigree ve Crossface gibi bazı bitiriciler bu nedenle görsel olarak farklıdır.
+People's Elbow düz elbow drop; Worm düz elbow drop; Swanton diving senton ile temsil edilir.
+3D, Poetry in Motion, Old School ve Coast to Coast için yeni özel animasyon eklenmedi.
+Giriş müzikleri ve sesler oyunun mevcut sesleridir.
+
+DOĞRULAMA
+Snes9x 1.62.3 libretro çekirdeğinde boş SRAM ile baştan açıldı.
+84/84 isim ve gövde kaydı seçim ekranından denetlendi; 84/84 karakterle maç açıldı.
+Sekiz farklı profil 9000'er CPU karesi, diğerleri 600'er kare çalıştırıldı.
+Toplam 117600 maç karesi; bu deneme her hareketin bütün oyun durumlarını kapsamaz.
+HWA ringinde 24000 CPU karesindeki dinamik ip grafik girdileri özgün grafiklerle karşılaştırıldı.
+L/R sayfa dönüşü, son sayfa sınırları ve önceki Undertaker SRAM'iyle altı sayfa kontrol edildi.
+DREAM MATCH doğrulandı. Tournament/League/Battle Royal akışları ayrıca doğrulanmadı.
+
+YAMALAR
+ROM doğrudan açılabilir. IPS kullanmak istersen:
+- from-original-sydra-v7: depodaki tam Sydra v7 İngilizce ROM'a uygula.
+- from-raw-v3: yalnız kabul edilen RAW IS WAR v3 ROM'a uygula.
+Farklı bir çeviri sürümüne veya daha önce yamalanmış başka ROM'a uygulama.
+
+ROM SHA256: 77aadb605a61430b065eafa5bcb33a52dac37ca627a6a99533949b9b9f695298
+Orijinal kaynak SHA256: 30a774f32e3e132d7e0c16f964a59b8720c1cc081e20159f85a22635f13e28fa

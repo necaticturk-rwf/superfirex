@@ -1,0 +1,10 @@
+{
+  "ring": "HWA",
+  "original_graphics_variant": "HWA",
+  "cpu": true,
+  "frames_checked": 24000,
+  "frames_with_map_updates": 23478,
+  "animation_starts": 1,
+  "updated_rope_cells": 106,
+  "verified_dynamic_entries": 69
+}

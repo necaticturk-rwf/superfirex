@@ -1,3 +1,28 @@
+# WWF Attitude Era 84 — native beta
+
+[**84 kişilik kadro ve RAW ring içeren ZIP’i indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-84-native-beta.zip)
+
+ZIP’i çıkarıp `raw-attitude-84-native-beta.sfc` dosyasını Snes9x’te baştan açın. **DREAM MATCH → WWF 01–06**. L/R ile sayfa değiştirin. EDIT’ten yükleme veya ek SRAM dosyası gerekmez. Eski save-state yerine yeni maç başlatın.
+
+84 yerleşik profil, 84 yeni portre, önem sırasına göre altı sayfa, karaktere göre nitelikler/hareketler/CPU tercihleri. Undertaker 1998–1999 Ministry profilidir; kabul edilen RAW ring v3 korunur.
+
+**Bu ilk oynanabilir betada ring içi gövde çizimleri mevcut modüler parçaların uyarlamalarıdır. Kadınların karaktere özel gövde çizimleri henüz tamamlanmadı; maske, dövme ve kıyafet ayrıntıları da yaklaşık.** Bazı bitiriciler oyunun yakın animasyonlarını kullanır; örneğin Stunner → Ace Crusher, Pedigree → Tiger Driver, Crossface → STF. Giriş müzikleri oyunun mevcut sesleridir.
+
+84/84 seçim ve maç açılışı, 117600 ek CPU karesi, altı sayfa geçişi ve 24000 karelik ip grafiği karşılaştırması Snes9x 1.62.3 libretro çekirdeğinde doğrulandı. Diğer maç modları ayrıca doğrulanmadı.
+
+[Kurulum/sınırlar](ATTITUDE_NATIVE_BETA_TR.txt) · [84 eşleştirme](attitude-84-roster.csv) · [Bitirici karşılıkları](ATTITUDE_84_MOVESETLER.md) · [Profiller](attitude-84-profiles.json) · [Test](attitude-84-runtime-validation.json) · [Teknik notlar](../research/ATTITUDE_NATIVE_BETA.md)
+
+![Gerçek ROM seçim ekranları](attitude-84-selection-pages.png)
+
+[84 karakterin oyun içindeki seçim görüntüleri](attitude-84-all-selections.png)
+
+![Undertaker native beta maç kaydı](attitude-match-04.png)
+
+ZIP SHA256: `c0f7cbe83d80b15eb83df2430b01214486567b437bb91de17619ccd5c07fd66c`.
+ROM SHA256: `77aadb605a61430b065eafa5bcb33a52dac37ca627a6a99533949b9b9f695298`.
+
+---
+
 # Undertaker — Ministry 1998–1999 — v1
 
 [**SFC + SRAM içeren paketi indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-ministry-undertaker-v1.zip)

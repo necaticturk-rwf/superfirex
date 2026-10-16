@@ -1,0 +1,9 @@
+{
+  "rom_sha256": "77aadb605a61430b065eafa5bcb33a52dac37ca627a6a99533949b9b9f695298",
+  "ips_reapplied_identically": true,
+  "ips_records": 7092,
+  "snes_checksum_valid": true,
+  "ring_and_early_rom_bytes_identical_except_checksum": true,
+  "unique_native_profiles": 84,
+  "packed_moves_and_stats_validated": 84
+}

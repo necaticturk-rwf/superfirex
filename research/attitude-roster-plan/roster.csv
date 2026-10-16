@@ -1,0 +1,85 @@
+priority,page,row,column,source_group,source_name,target_name,person,status
+1,1,1,1,WC,Hulk Hogan,Stone Cold Steve Austin,Stone Cold Steve Austin,applied_to_native_beta; in_ring_art_provisional
+2,1,1,2,NEW JAPAN,Chono,The Rock,The Rock,applied_to_native_beta; in_ring_art_provisional
+3,1,1,3,NEW JAPAN,Muto,Triple H,Triple H,applied_to_native_beta; in_ring_art_provisional
+4,1,1,4,WC,Undertaker,The Undertaker,The Undertaker,applied_to_native_beta; in_ring_art_provisional
+5,1,2,1,NEW JAPAN,Chosyu,Mankind,Mick Foley,applied_to_native_beta; in_ring_art_provisional
+6,1,2,2,WC,Great Muta,Kane,Kane,applied_to_native_beta; in_ring_art_provisional
+7,1,2,3,NEW JAPAN,Fujinami,Shawn Michaels,Shawn Michaels,applied_to_native_beta; in_ring_art_provisional
+8,1,2,4,ALL JAPAN,Jumbo Tsuruta,Bret Hart,Bret Hart,applied_to_native_beta; in_ring_art_provisional
+9,1,3,1,NEW JAPAN,Sasaki,Kurt Angle,Kurt Angle,applied_to_native_beta; in_ring_art_provisional
+10,1,3,2,R・Y・U,Ultimo Dragon,Chris Jericho,Chris Jericho,applied_to_native_beta; in_ring_art_provisional
+11,1,3,3,ALL JAPAN,Gary Albright,Big Show,Big Show,applied_to_native_beta; in_ring_art_provisional
+12,1,3,4,PANTI,Gung Ho,Vince McMahon,Vince McMahon,applied_to_native_beta; in_ring_art_provisional
+13,1,4,1,NEW JAPAN,Wild Pegasus,Chris Benoit,Chris Benoit,applied_to_native_beta; in_ring_art_provisional
+14,1,4,2,NEW JAPAN,Black Tiger,Eddie Guerrero,Eddie Guerrero,applied_to_native_beta; in_ring_art_provisional
+15,1,4,3,NEW JAPAN,Hase,Edge,Edge,applied_to_native_beta; in_ring_art_provisional
+16,1,4,4,NEW JAPAN,El Samurai,Christian,Christian,applied_to_native_beta; in_ring_art_provisional
+17,2,1,1,FREELANCE,Koji K,Rikishi,Rikishi,applied_to_native_beta; in_ring_art_provisional
+18,2,1,2,MICHINOKU,Great Sasuke,Rob Van Dam,Rob Van Dam,applied_to_native_beta; in_ring_art_provisional
+19,2,1,3,M A,Maurice Smith,Booker T,Booker T,applied_to_native_beta; in_ring_art_provisional
+20,2,1,4,NEW JAPAN,Jyushin Lyger,X-Pac,X-Pac,applied_to_native_beta; in_ring_art_provisional
+21,2,2,1,NEW JAPAN,Honaga,Road Dogg,Road Dogg,applied_to_native_beta; in_ring_art_provisional
+22,2,2,2,ALL JAPAN,Johnny Ace,Billy Gunn,Billy Gunn,applied_to_native_beta; in_ring_art_provisional
+23,2,2,3,IW,Hayabu,Jeff Hardy,Jeff Hardy,applied_to_native_beta; in_ring_art_provisional
+24,2,2,4,NEW JAPAN,Koji,Matt Hardy,Matt Hardy,applied_to_native_beta; in_ring_art_provisional
+25,2,3,1,WC,Rick Steiner,Bubba Ray Dudley,Bubba Ray Dudley,applied_to_native_beta; in_ring_art_provisional
+26,2,3,2,PANCRASE,Bas Rutten,D-Von Dudley,D-Von Dudley,applied_to_native_beta; in_ring_art_provisional
+27,2,3,3,WC,Scott Steiner,Faarooq,Faarooq,applied_to_native_beta; in_ring_art_provisional
+28,2,3,4,ALL JAPAN,Stan Hansen,Bradshaw,Bradshaw,applied_to_native_beta; in_ring_art_provisional
+29,2,4,1,PANCRASE,Ken Shamrock,Ken Shamrock,Ken Shamrock,applied_to_native_beta; in_ring_art_provisional
+30,2,4,2,HEISEI,Shiro Koshi,Owen Hart,Owen Hart,applied_to_native_beta; in_ring_art_provisional
+31,2,4,3,HEISEI,Goto,British Bulldog,British Bulldog,applied_to_native_beta; in_ring_art_provisional
+32,2,4,4,NEW JAPAN,Hashimoto,Chyna,Chyna,applied_to_native_beta; in_ring_art_provisional
+33,3,1,1,IW,Mister Pogo,Cactus Jack,Mick Foley,applied_to_native_beta; in_ring_art_provisional
+34,3,1,2,PR,Bitsadze Tariel,Goldust,Goldust,applied_to_native_beta; in_ring_art_provisional
+35,3,1,3,ALL JAPAN,Cujo,Jeff Jarrett,Jeff Jarrett,applied_to_native_beta; in_ring_art_provisional
+36,3,1,4,ALL JAPAN,Steve Williams,Mark Henry,Mark Henry,applied_to_native_beta; in_ring_art_provisional
+37,3,2,1,R・Y・U,Ricky Krin,D’Lo Brown,D’Lo Brown,applied_to_native_beta; in_ring_art_provisional
+38,3,2,2,R・Y・U,Tenryo,Val Venis,Val Venis,applied_to_native_beta; in_ring_art_provisional
+39,3,2,3,ALL JAPAN,Taue,Test,Test,applied_to_native_beta; in_ring_art_provisional
+40,3,2,4,IW,Tarzan Goto,Big Boss Man,Big Boss Man,applied_to_native_beta; in_ring_art_provisional
+41,3,3,1,PR,Dax,William Regal,William Regal,applied_to_native_beta; in_ring_art_provisional
+42,3,3,2,IW,Ricky Fuji,Shane McMahon,Shane McMahon,applied_to_native_beta; in_ring_art_provisional
+43,3,3,3,HWF,Daijiro Zama,Lita,Lita,applied_to_native_beta; in_ring_art_provisional
+44,3,3,4,HWF,Eric Starback,Trish Stratus,Trish Stratus,applied_to_native_beta; in_ring_art_provisional
+45,3,4,1,HWF,Baron Freebird,Sable,Sable,applied_to_native_beta; in_ring_art_provisional
+46,3,4,2,PR,Dick Vrij,Stephanie McMahon,Stephanie McMahon,applied_to_native_beta; in_ring_art_provisional
+47,3,4,3,WC,Vader,Vader,Vader,applied_to_native_beta; in_ring_art_provisional
+48,3,4,4,R・Y・U,Hara,Sycho Sid,Sycho Sid,applied_to_native_beta; in_ring_art_provisional
+49,4,1,1,ALL JAPAN,Jim Miny,Brian Pillman,Brian Pillman,applied_to_native_beta; in_ring_art_provisional
+50,4,1,2,PANCRASE,Suzuki,Raven,Raven,applied_to_native_beta; in_ring_art_provisional
+51,4,1,3,UWFI,Ben Sham,Tazz,Tazz,applied_to_native_beta; in_ring_art_provisional
+52,4,1,4,PR,Chris Dolman,Rhyno,Rhyno,applied_to_native_beta; in_ring_art_provisional
+53,4,2,1,PANCRASE,Ed Po,Diamond Dallas Page,Diamond Dallas Page,applied_to_native_beta; in_ring_art_provisional
+54,4,2,2,IW,Terry Gordy,Terry Funk,Terry Funk,applied_to_native_beta; in_ring_art_provisional
+55,4,2,3,UWFI,Todd Zilla,Steve Blackman,Steve Blackman,applied_to_native_beta; in_ring_art_provisional
+56,4,2,4,ALL JAPAN,Hal Snow,Al Snow,Al Snow,applied_to_native_beta; in_ring_art_provisional
+57,4,3,1,R・Y・U,Fuyuki,Hardcore Holly,Hardcore Holly,applied_to_native_beta; in_ring_art_provisional
+58,4,3,2,R・Y・U,Jado,Crash Holly,Crash Holly,applied_to_native_beta; in_ring_art_provisional
+59,4,3,3,MICHINOKU,Bill Lee,Scotty 2 Hotty,Scotty 2 Hotty,applied_to_native_beta; in_ring_art_provisional
+60,4,3,4,MICHINOKU,Sato,Grand Master Sexay,Grand Master Sexay,applied_to_native_beta; in_ring_art_provisional
+61,4,4,1,IW,Tiger Singh,The Godfather,The Godfather,applied_to_native_beta; in_ring_art_provisional
+62,4,4,2,HEISEI,Great Kabuki,Gangrel,Gangrel,applied_to_native_beta; in_ring_art_provisional
+63,4,4,3,FREELANCE,Dude Love,Dude Love,Mick Foley,applied_to_native_beta; in_ring_art_provisional
+64,4,4,4,NEW JAPAN,Kido,Dean Malenko,Dean Malenko,applied_to_native_beta; in_ring_art_provisional
+65,5,1,1,ALL JAPAN,Fuchi,Perry Saturn,Perry Saturn,applied_to_native_beta; in_ring_art_provisional
+66,5,1,2,R・Y・U,Gedo,Tajiri,Tajiri,applied_to_native_beta; in_ring_art_provisional
+67,5,1,3,MICHINOKU,Spel Delfin,The Hurricane,The Hurricane,applied_to_native_beta; in_ring_art_provisional
+68,5,1,4,NEW JAPAN,Ohtani,Lance Storm,Lance Storm,applied_to_native_beta; in_ring_art_provisional
+69,5,2,1,NEW JAPAN,Tenzan,Albert,Albert,applied_to_native_beta; in_ring_art_provisional
+70,5,2,2,HEISEI,Mikey King,Spike Dudley,Spike Dudley,applied_to_native_beta; in_ring_art_provisional
+71,5,2,3,HEISEI,Meng Lo,Haku,Haku,applied_to_native_beta; in_ring_art_provisional
+72,5,2,4,ALL JAPAN,Gorf,Viscera,Viscera,applied_to_native_beta; in_ring_art_provisional
+73,5,3,1,IW,Mars,Mideon,Mideon,applied_to_native_beta; in_ring_art_provisional
+74,5,3,2,PR,Volk Han,Steven Richards,Steven Richards,applied_to_native_beta; in_ring_art_provisional
+75,5,3,3,UWFI,Kal El,Bull Buchanan,Bull Buchanan,applied_to_native_beta; in_ring_art_provisional
+76,5,3,4,MICHINOKU,Taka Michinok,TAKA Michinoku,TAKA Michinoku,applied_to_native_beta; in_ring_art_provisional
+77,5,4,1,ALL JAPAN,Jack Chan,Funaki,Funaki,applied_to_native_beta; in_ring_art_provisional
+78,5,4,2,M A,Rickson Gracie,Essa Rios,Essa Rios,applied_to_native_beta; in_ring_art_provisional
+79,5,4,3,PANCRASE,Buff Ed,K-Kwik,K-Kwik,applied_to_native_beta; in_ring_art_provisional
+80,5,4,4,HWF,John Saigo,Tori,Tori,applied_to_native_beta; in_ring_art_provisional
+81,6,1,1,HWF,Wolf McSchneider,Jacqueline,Jacqueline,applied_to_native_beta; in_ring_art_provisional
+82,6,1,2,HWF,Ho Long,Ivory,Ivory,applied_to_native_beta; in_ring_art_provisional
+83,6,1,3,HWF,Jailbrakr Bullnoi,Molly Holly,Molly Holly,applied_to_native_beta; in_ring_art_provisional
+84,6,1,4,HWF,Hayate,Luna Vachon,Luna Vachon,applied_to_native_beta; in_ring_art_provisional
