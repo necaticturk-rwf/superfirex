@@ -1,0 +1,23 @@
+{
+  "rom_sha256": "dd33462b1296a777deffc363eb634c8fc7c329cbc7987df66443eb3ef088f5e5",
+  "rom_size": 8388608,
+  "exhirom_headers_and_checksum_valid": true,
+  "accepted_five_profiles_portraits_palettes_and_runtime_part_bytes_preserved": true,
+  "restored_profiles_portraits_and_all_four_costume_selectors_byte_exact": [
+    "Gung Ho",
+    "Hashimoto",
+    "Ricky Fuji",
+    "Daijiro Zama",
+    "Eric Starback",
+    "Baron Freebird",
+    "Dick Vrij",
+    "John Saigo",
+    "Wolf McSchneider",
+    "Ho Long",
+    "Jailbrakr Bullnoi",
+    "Hayate"
+  ],
+  "other_wwf_moves_and_abilities_preserved": true,
+  "roster_order_72_wwf_then_12_original": true,
+  "kurrgan_replaces_hurricane_at_wwf_rank_72": true
+}

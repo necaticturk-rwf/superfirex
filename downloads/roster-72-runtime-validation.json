@@ -1,0 +1,199 @@
+{
+  "rom_sha256": "dd33462b1296a777deffc363eb634c8fc7c329cbc7987df66443eb3ef088f5e5",
+  "core": "Snes9x 1.62.3 libretro",
+  "cold_empty_sram": true,
+  "page_counts": [
+    16,
+    16,
+    16,
+    16,
+    8,
+    12
+  ],
+  "all_84_selections": true,
+  "matches": [
+    [
+      "Stone Cold Steve Austin",
+      "The Rock"
+    ],
+    [
+      "Triple H",
+      "The Undertaker"
+    ],
+    [
+      "Mankind",
+      "Kane"
+    ],
+    [
+      "Shawn Michaels",
+      "Bret Hart"
+    ],
+    [
+      "Kurt Angle",
+      "Chris Jericho"
+    ],
+    [
+      "Big Show",
+      "Chris Benoit"
+    ],
+    [
+      "Eddie Guerrero",
+      "Edge"
+    ],
+    [
+      "Christian",
+      "Rikishi"
+    ],
+    [
+      "Rob Van Dam",
+      "Booker T"
+    ],
+    [
+      "X-Pac",
+      "Road Dogg"
+    ],
+    [
+      "Billy Gunn",
+      "Jeff Hardy"
+    ],
+    [
+      "Matt Hardy",
+      "Bubba Ray Dudley"
+    ],
+    [
+      "D-Von Dudley",
+      "Faarooq"
+    ],
+    [
+      "Bradshaw",
+      "Ken Shamrock"
+    ],
+    [
+      "Owen Hart",
+      "British Bulldog"
+    ],
+    [
+      "Cactus Jack",
+      "Goldust"
+    ],
+    [
+      "Jeff Jarrett",
+      "Mark Henry"
+    ],
+    [
+      "D\u2019Lo Brown",
+      "Val Venis"
+    ],
+    [
+      "Test",
+      "Big Boss Man"
+    ],
+    [
+      "William Regal",
+      "Vader"
+    ],
+    [
+      "Sycho Sid",
+      "Brian Pillman"
+    ],
+    [
+      "Raven",
+      "Tazz"
+    ],
+    [
+      "Rhyno",
+      "Diamond Dallas Page"
+    ],
+    [
+      "Terry Funk",
+      "Steve Blackman"
+    ],
+    [
+      "Al Snow",
+      "Hardcore Holly"
+    ],
+    [
+      "Crash Holly",
+      "Scotty 2 Hotty"
+    ],
+    [
+      "Grand Master Sexay",
+      "The Godfather"
+    ],
+    [
+      "Gangrel",
+      "Dude Love"
+    ],
+    [
+      "Dean Malenko",
+      "Perry Saturn"
+    ],
+    [
+      "Tajiri",
+      "Lance Storm"
+    ],
+    [
+      "Albert",
+      "Spike Dudley"
+    ],
+    [
+      "Haku",
+      "Viscera"
+    ],
+    [
+      "Mideon",
+      "Steven Richards"
+    ],
+    [
+      "Bull Buchanan",
+      "TAKA Michinoku"
+    ],
+    [
+      "Funaki",
+      "Essa Rios"
+    ],
+    [
+      "K-Kwik",
+      "Kurrgan"
+    ],
+    [
+      "Gung Ho",
+      "Hashimoto"
+    ],
+    [
+      "Ricky Fuji",
+      "Daijiro Zama"
+    ],
+    [
+      "Eric Starback",
+      "Baron Freebird"
+    ],
+    [
+      "Dick Vrij",
+      "John Saigo"
+    ],
+    [
+      "Wolf McSchneider",
+      "Ho Long"
+    ],
+    [
+      "Jailbrakr Bullnoi",
+      "Hayate"
+    ]
+  ],
+  "all_67_new_head_streams_and_8_part_pointers_verified": true,
+  "extended_movement_match_indices": [
+    2,
+    3,
+    5,
+    6,
+    15,
+    23,
+    35,
+    36,
+    41
+  ],
+  "limitations": [
+    "Dream Match selection and all 84 wrestler loads tested; every move interaction and every game mode are not exhaustive."
+  ]
+}

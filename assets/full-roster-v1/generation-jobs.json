@@ -1,0 +1,552 @@
+[
+  {
+    "label": "heads-00",
+    "kind": "heads",
+    "members": [
+      "kane",
+      "shawnmichaels",
+      "brethart"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-00.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-00-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Kane. long brown hair, red and black full-face Kane mask with dark eye holes, no beard. Rows 7-12: Shawn Michaels. long light brown hair pulled back, receding temples, clean shaven. Rows 13-18: Bret Hart. long wet-looking black hair, square face, clean shaven. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-01",
+    "kind": "heads",
+    "members": [
+      "kurtangle",
+      "chrisjericho",
+      "bigshow"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-01.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-01-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Kurt Angle. short dark brown buzz cut, clean shaven, strong brow. Rows 7-12: Chris Jericho. long straight golden blond hair, narrow face with light short goatee. Rows 13-18: Big Show. short dark brown hair, full dark goatee, broad heavy face. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-02",
+    "kind": "heads",
+    "members": [
+      "chrisbenoit",
+      "eddieguerrero",
+      "edge"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-02.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-02-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Chris Benoit. short brown hair, short dark moustache/goatee, stern strong jaw. Rows 7-12: Eddie Guerrero. short dark mullet swept back, thin moustache and goatee. Rows 13-18: Edge. long golden blond shoulder-length hair, clean shaven, narrow face. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-03",
+    "kind": "heads",
+    "members": [
+      "christian",
+      "rikishi",
+      "robvandam"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-03.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-03-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Christian. short bleached blond hair, clean shaven. Rows 7-12: Rikishi. short bleached blond hair, dark goatee, round heavy face. Rows 13-18: Rob Van Dam. dark brown long hair tied into low ponytail, short goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-04",
+    "kind": "heads",
+    "members": [
+      "bookert",
+      "xpac",
+      "roaddogg"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-04.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-04-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Booker T. long black dreadlocks, moustache and goatee. Rows 7-12: X-Pac. long straight black hair, narrow dark beard/goatee. Rows 13-18: Road Dogg. long brown hair tied or hanging behind neck, dark goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-05",
+    "kind": "heads",
+    "members": [
+      "billygunn",
+      "jeffhardy",
+      "matthardy"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-05.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-05-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Billy Gunn. short light blond hair, clean shaven, broad jaw. Rows 7-12: Jeff Hardy. black hair with bright green streak, long at back, short goatee. Rows 13-18: Matt Hardy. long straight black hair, dark goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-06",
+    "kind": "heads",
+    "members": [
+      "bubbaraydudley",
+      "dvondudley",
+      "faarooq"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-06.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-06-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Bubba Ray Dudley. short dark hair and dark goatee, heavy rounded face. Rows 7-12: D-Von Dudley. very short black hair or shaved head, short moustache/goatee. Rows 13-18: Faarooq. short black hair, thick dark moustache and small beard. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-07",
+    "kind": "heads",
+    "members": [
+      "bradshaw",
+      "kenshamrock",
+      "owenhart"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-07.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-07-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Bradshaw. long dark brown hair and thick moustache/goatee. Rows 7-12: Ken Shamrock. short dark brown military-style hair, clean shaven. Rows 13-18: Owen Hart. short blond hair, clean shaven, broad face. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-08",
+    "kind": "heads",
+    "members": [
+      "britishbulldog",
+      "cactusjack",
+      "goldust"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-08.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-08-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: British Bulldog. short dark brown hair, strong clean shaven jaw. Rows 7-12: Cactus Jack. shaggy long dark brown hair and full dark beard, NO face mask. Rows 13-18: Goldust. bald head painted metallic gold with stark black eye and mouth face-paint patterns. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-09",
+    "kind": "heads",
+    "members": [
+      "jeffjarrett",
+      "markhenry",
+      "dlobrown"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-09.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-09-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Jeff Jarrett. short bleached blond hair and dark light goatee. Rows 7-12: Mark Henry. short black hair, round heavy dark face, short beard. Rows 13-18: D’Lo Brown. shaved/bald head, dark moustache and goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-10",
+    "kind": "heads",
+    "members": [
+      "valvenis",
+      "test",
+      "bigbossman"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-10.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-10-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Val Venis. long brown hair tied behind head, clean shaven or light goatee. Rows 7-12: Test. short light blond hair, light goatee, square jaw. Rows 13-18: Big Boss Man. short black hair, black cap, dark sunglasses and moustache, broad face. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-11",
+    "kind": "heads",
+    "members": [
+      "williamregal",
+      "vader",
+      "sychosid"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-11.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-11-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: William Regal. short slick brown hair, clean shaven, strong serious face. Rows 7-12: Vader. red and black face mask with eye/nose openings, short dark hair. Rows 13-18: Sycho Sid. short curly light blond hair, clean shaven, large square jaw. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-12",
+    "kind": "heads",
+    "members": [
+      "brianpillman",
+      "raven",
+      "tazz"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-12.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-12-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Brian Pillman. long curly/wavy dirty blond hair, light beard/stubble. Rows 7-12: Raven. long dirty blond hair, short beard/goatee, intense face. Rows 13-18: Tazz. shaved/bald head and thick dark goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-13",
+    "kind": "heads",
+    "members": [
+      "rhyno",
+      "diamonddallaspage",
+      "terryfunk"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-13.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-13-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Rhyno. long black hair swept back, dark thick goatee, large jaw. Rows 7-12: Diamond Dallas Page. long wavy blond hair, blond/dark goatee. Rows 13-18: Terry Funk. short dark hair under red headband, brown moustache and beard. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-14",
+    "kind": "heads",
+    "members": [
+      "steveblackman",
+      "alsnow",
+      "hardcoreholly"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-14.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-14-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Steve Blackman. short spiky black hair, clean shaven. Rows 7-12: Al Snow. long dirty blond hair and dark moustache/goatee. Rows 13-18: Hardcore Holly. very short blond buzz cut, clean shaven. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-15",
+    "kind": "heads",
+    "members": [
+      "crashholly",
+      "scotty2hotty",
+      "grandmastersexay"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-15.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-15-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Crash Holly. short bleached blond hair, clean shaven, youthful round face. Rows 7-12: Scotty 2 Hotty. short blond hair under red headband, short light facial hair. Rows 13-18: Grand Master Sexay. short dark hair under red headband, thin dark goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-16",
+    "kind": "heads",
+    "members": [
+      "thegodfather",
+      "gangrel",
+      "dudelove"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-16.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-16-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: The Godfather. bald/shaved head, black moustache and goatee. Rows 7-12: Gangrel. long straight blond hair, pale vampire face and dark brows. Rows 13-18: Dude Love. long shaggy brown hair, full brown beard, no mask. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-17",
+    "kind": "heads",
+    "members": [
+      "deanmalenko",
+      "perrysaturn",
+      "tajiri"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-17.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-17-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Dean Malenko. short brown buzz cut, clean shaven, serious face. Rows 7-12: Perry Saturn. bald/shaved head with dark goatee, stern heavy brow. Rows 13-18: Tajiri. short straight black hair, short moustache/goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-18",
+    "kind": "heads",
+    "members": [
+      "kurrgan",
+      "lancestorm",
+      "albert"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-18.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-18-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Kurrgan. short black flat-top hair with receding temples, dark narrow goatee/moustache, long broad intimidating face. Rows 7-12: Lance Storm. short brown buzz cut, clean shaven. Rows 13-18: Albert. bald/shaved head with black goatee, very hairy chest/upper back. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-19",
+    "kind": "heads",
+    "members": [
+      "spikedudley",
+      "haku",
+      "viscera"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-19.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-19-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Spike Dudley. short messy blond hair, thin goatee. Rows 7-12: Haku. long dark curly hair, full moustache/beard, broad Polynesian face. Rows 13-18: Viscera. short bleached blond buzz cut, round very heavy dark face. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-20",
+    "kind": "heads",
+    "members": [
+      "mideon",
+      "stevenrichards",
+      "bullbuchanan"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-20.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-20-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: Mideon. long black hair, dark beard, pale broad face. Rows 7-12: Steven Richards. short brown hair, dark light goatee. Rows 13-18: Bull Buchanan. bald/shaved head, clean shaven, very broad jaw. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-21",
+    "kind": "heads",
+    "members": [
+      "takamichinoku",
+      "funaki",
+      "essarios"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-21.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-21-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by18 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 3 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: TAKA Michinoku. short straight black hair, clean shaven. Rows 7-12: Funaki. medium brown hair to neck, clean shaven. Rows 13-18: Essa Rios. long bright reddish-brown hair, clean shaven. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "heads-22",
+    "kind": "heads",
+    "members": [
+      "kkwik"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-22.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/heads-22-refs.png",
+    "prompt": "Edit FIRST image, a technical SNES head atlas. SECOND image contains labeled reference wrestlers. Return exactly8 columns by6 rows of tiny16x16 head cells scaled up, solid pure black background, no gutters, names or grid lines. There are 1 separate wrestler blocks stacked vertically, each8x6=48 HEAD VIEWS. Preserve every cell's original neck anchor, facing, tilt and outline dimensions; heads only, no torsos or limbs. Never replace rear/side views with repeated frontal portraits. Bold readable pixel-art facial features, restrained16-color SNES style. Match each correct reference's face, facial hair, hair and masks: Rows 1-6: K-Kwik. short black braids tied behind head, moustache and goatee. Keep EACH wrestler within its six-row section; preserve all48 original head angles per wrestler."
+  },
+  {
+    "label": "canonical-00",
+    "kind": "canonical",
+    "members": [
+      "kane",
+      "shawnmichaels",
+      "brethart"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-00.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-00-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Kane: red fitted full wrestling bodysuit with black flame accents, wide black belt, red legs, black boots and gloves. BLOCK 2, rows 5-8: Shawn Michaels: bare chest, bright red long tights with white and black heart motifs and red knee areas, black-and-white boots, white wrist tape. BLOCK 3, rows 9-12: Bret Hart: black singlet vest with pink heart/trim, pink long tights with black side shapes, black knee pads and white boots."
+  },
+  {
+    "label": "canonical-01",
+    "kind": "canonical",
+    "members": [
+      "kurtangle",
+      "chrisjericho",
+      "bigshow"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-01.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-01-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Kurt Angle: red white and blue patriotic singlet with white stars and vertical red/white stripes, matching red/blue legs, red white boots and elbow pads. BLOCK 2, rows 5-8: Chris Jericho: bare chest, black long tights with bright gold lightning graphics and waistband, black wrist bands, black boots. BLOCK 3, rows 9-12: Big Show: very large heavy body, bare chest, plain black briefs, black knee pads and high black boots."
+  },
+  {
+    "label": "canonical-02",
+    "kind": "canonical",
+    "members": [
+      "chrisbenoit",
+      "eddieguerrero",
+      "edge"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-02.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-02-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Chris Benoit: bare chest, red long tights with white/black claw and stripe designs, black elbow pads, red white boots. BLOCK 2, rows 5-8: Eddie Guerrero: bare chest, black long tights with gold flame patterns down legs, black elbow pads and black boots. BLOCK 3, rows 9-12: Edge: bare chest, black long tights covered with pale mint green abstract flame pattern, black elbow pads and black boots.",
+    "output_layout": "clothing-only: 3 members x 3 rows (waist, upper leg, boot); bare chest uses original native module"
+  },
+  {
+    "label": "canonical-03",
+    "kind": "canonical",
+    "members": [
+      "christian",
+      "rikishi",
+      "robvandam"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-03.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-03-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Christian: bare chest, short black tights with turquoise-blue and white jagged side designs, black knee pads, high black boots, white wrist tape. BLOCK 2, rows 5-8: Rikishi: extremely heavy large body, bare chest, small black sumo-like trunks with red tribal waistband/side fringe shapes, black knee pads and high black boots. BLOCK 3, rows 9-12: Rob Van Dam: white and black patterned singlet with gold/black tiger stripe curves and shoulder straps, white short legs, black knee pads and tall black boots, black wrist wraps."
+  },
+  {
+    "label": "canonical-04",
+    "kind": "canonical",
+    "members": [
+      "bookert",
+      "xpac",
+      "roaddogg"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-04.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-04-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Booker T: bare muscular chest, white and black short tights with bold zigzag design, white knee pads and boots with black bands, white wrist tape. BLOCK 2, rows 5-8: X-Pac: black and neon green singlet with green X design, matching black/green long legs, black boots and green-trim knee areas, black elbow pads. BLOCK 3, rows 9-12: Road Dogg: black sleeveless wrestling top with neon green DX-style chest motif, black long pants with green tribal swirls, black elbow pads and boots, white wrist tape.",
+    "output_layout": "clothing-only: 3 rows Booker T, 4 rows X-Pac, 4 rows Road Dogg"
+  },
+  {
+    "label": "canonical-05",
+    "kind": "canonical",
+    "members": [
+      "billygunn",
+      "jeffhardy",
+      "matthardy"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-05.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-05-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Billy Gunn: bare chest, bright neon green short tights with hot pink lip-shaped patterns, green/pink knee areas, tall white boots and white wrist tape. BLOCK 2, rows 5-8: Jeff Hardy: black sleeveless fitted top, loose black pants with white belt, black arm sleeves with white bands and black boots. BLOCK 3, rows 9-12: Matt Hardy: bare chest, loose blue jeans with dark belt, black elbow pads and wrist bands, tall black boots."
+  },
+  {
+    "label": "canonical-06",
+    "kind": "canonical",
+    "members": [
+      "bubbaraydudley",
+      "dvondudley",
+      "faarooq"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-06.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-06-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Bubba Ray Dudley: black short-sleeved T-shirt with red/white chest lettering shapes, red brown and white camouflage long trousers, black elbow pads and wrist bands, black boots. BLOCK 2, rows 5-8: D-Von Dudley: black sleeveless shirt, red brown and white camouflage long pants, white wrist tape, black boots. BLOCK 3, rows 9-12: Faarooq: bare chest, dark gray/black long tights with small red-and-white side emblem, black wrist tape and black boots."
+  },
+  {
+    "label": "canonical-07",
+    "kind": "canonical",
+    "members": [
+      "bradshaw",
+      "kenshamrock",
+      "owenhart"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-07.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-07-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Bradshaw: bare chest with dark small chest tattoo, dark olive/black long tights with red/white thigh emblem, black boots and white wrist tape. BLOCK 2, rows 5-8: Ken Shamrock: bare chest, dark blue briefs, dark blue knee pads and mid-high blue boots, black wrist bands. BLOCK 3, rows 9-12: Owen Hart: black singlet with yellow/gold trim and small chest emblem, short black/yellow legs, black knee pads and black boots, white wrist tape."
+  },
+  {
+    "label": "canonical-08",
+    "kind": "canonical",
+    "members": [
+      "britishbulldog",
+      "cactusjack",
+      "goldust"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-08.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-08-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: British Bulldog: bare chest, plain blue long tights, black elbow pads, blue/black knee area, white mid-high boots and white wrist tape. BLOCK 2, rows 5-8: Cactus Jack: black sleeveless shirt with yellow square chest logo, dark camouflage pants with muted gold/black patches, white wrist tape, black boots. BLOCK 3, rows 9-12: Goldust: metallic gold full-body suit with black jagged chest/shoulder and hip panel pattern, gold legs, gold boots and gloves, bold black trim."
+  },
+  {
+    "label": "canonical-09",
+    "kind": "canonical",
+    "members": [
+      "jeffjarrett",
+      "markhenry",
+      "dlobrown"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-09.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-09-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Jeff Jarrett: bare chest, silver gray short tights with yellow red and blue stripe bands, matching knee and shin pads, black elbow pads and boots, white wrist tape. BLOCK 2, rows 5-8: Mark Henry: very heavy muscular stocky body, black singlet with muted dark green military camouflage pattern and short black legs, black knee pads and boots, black elbow pads. BLOCK 3, rows 9-12: D’Lo Brown: black shiny sleeveless chest-protector vest, black long tights with purple and white angular thigh/leg trim, black gloves and boots."
+  },
+  {
+    "label": "canonical-10",
+    "kind": "canonical",
+    "members": [
+      "valvenis",
+      "test",
+      "bigbossman"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-10.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-10-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Val Venis: bare chest, plain black briefs, black knee pads and tall black boots, black wrist bands. BLOCK 2, rows 5-8: Test: bare chest, black leather-look long pants with small silver markings at hips and white belt trim, black elbow pads and boots, white wrist tape. BLOCK 3, rows 9-12: Big Boss Man: heavy body, black short-sleeved police/security shirt with small chest badge, black belt, black long pants, black gloves and boots."
+  },
+  {
+    "label": "canonical-11",
+    "kind": "canonical",
+    "members": [
+      "williamregal",
+      "vader",
+      "sychosid"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-11.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-11-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: William Regal: bare chest, plain black briefs, black knee pads and black mid-high boots, white wrist tape. BLOCK 2, rows 5-8: Vader: extremely heavy body, black singlet with red broad shoulder straps and red side flame graphics, short black/red legs, red knee areas and red boots, black wrist bands. BLOCK 3, rows 9-12: Sycho Sid: very tall large muscular body, bare chest, black briefs, black knee pads, tall black boots with thin white trim, black elbow pads."
+  },
+  {
+    "label": "canonical-12",
+    "kind": "canonical",
+    "members": [
+      "brianpillman",
+      "raven",
+      "tazz"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-12.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-12-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Brian Pillman: open black sleeveless vest showing bare chest, black-and-red long tights with white cross motifs, small purple/white skull shape on vest back, white wrist tape and black boots. BLOCK 2, rows 5-8: Raven: black sleeveless T-shirt with muted red chest emblem, faded blue denim shorts, black knee pads and black boots, white wrist tape. BLOCK 3, rows 9-12: Tazz: heavy stocky body, black singlet with muted dark brown shoulder panels, short black legs, black knee pads and black boots, white wrist tape."
+  },
+  {
+    "label": "canonical-13",
+    "kind": "canonical",
+    "members": [
+      "rhyno",
+      "diamonddallaspage",
+      "terryfunk"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-13.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-13-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Rhyno: stocky powerful body, plain black singlet with black short legs, black knee pads and black boots, white wrist tape. BLOCK 2, rows 5-8: Diamond Dallas Page: bare chest with small dark chest markings, faded light blue jeans with black waistband, black elbow pads and boots, white wrist tape. BLOCK 3, rows 9-12: Terry Funk: black sleeveless top with small white chest lettering, red white and blue stars/stripes long tights, black knee pads and tall white boots, black elbow pads, white wrist tape."
+  },
+  {
+    "label": "canonical-14",
+    "kind": "canonical",
+    "members": [
+      "steveblackman",
+      "alsnow",
+      "hardcoreholly"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-14.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-14-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Steve Blackman: bare chest, black long martial-arts trousers with subtle red side marking, black elbow pads and boots, white wrist tape. BLOCK 2, rows 5-8: Al Snow: white sleeveless graphic T-shirt with bold black chest print and back print, black short tights with red/white side shapes, black knee pads and white boots, white wrist tape. BLOCK 3, rows 9-12: Hardcore Holly: bare chest, dark blue briefs with yellow trim and tiny emblem, black knee pads, tall white boots and black elbow pads."
+  },
+  {
+    "label": "canonical-15",
+    "kind": "canonical",
+    "members": [
+      "crashholly",
+      "scotty2hotty",
+      "grandmastersexay"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-15.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-15-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Crash Holly: small stocky wrestler, bare chest, dark blue/green briefs with pale yellow trim, black knee pads and black boots, white wrist tape. BLOCK 2, rows 5-8: Scotty 2 Hotty: bare chest, loose black-and-white zebra striped long trousers, black boots, black elbow pads and wrist bands. BLOCK 3, rows 9-12: Grand Master Sexay: bare chest, loose black-and-white zebra striped long trousers, black boots, black elbow pads and wrist bands."
+  },
+  {
+    "label": "canonical-16",
+    "kind": "canonical",
+    "members": [
+      "thegodfather",
+      "gangrel",
+      "dudelove"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-16.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-16-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: The Godfather: open black sleeveless vest, bare chest, bright green loose long pants, black boots and white wrist tape. BLOCK 2, rows 5-8: Gangrel: white long-sleeved ruffled collared shirt with open neckline and red collar/throat detail, black long pants, black gloves and boots. BLOCK 3, rows 9-12: Dude Love: purple sleeveless shirt with multicolor tie-dye-like chest spots, purple long pants, black elbow pads and boots, white wrist tape."
+  },
+  {
+    "label": "canonical-17",
+    "kind": "canonical",
+    "members": [
+      "deanmalenko",
+      "perrysaturn",
+      "tajiri"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-17.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-17-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Dean Malenko: bare chest, plain dark blue briefs, black knee pads and black boots, white wrist tape. BLOCK 2, rows 5-8: Perry Saturn: bare tattooed chest and upper arms, dark blue short tights with orange/gold side pattern, black knee pads and boots, black elbow pads and wrist bands. BLOCK 3, rows 9-12: Tajiri: bare chest, silver white black and gold patterned long tights with black waistband, black knee pads and tall black/gold boots, white wrist tape."
+  },
+  {
+    "label": "canonical-18",
+    "kind": "canonical",
+    "members": [
+      "kurrgan",
+      "lancestorm",
+      "albert"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-18.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-18-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Kurrgan: extremely tall giant wrestler, bare chest, plain black long pants, black wrist cuffs with small white trim and high black boots. BLOCK 2, rows 5-8: Lance Storm: bare chest, red long tights with bold white side stripes, black elbow pads, tall red and white boots, white wrist tape. BLOCK 3, rows 9-12: Albert: very large muscular body, black briefs with red angular front emblem, black knee pads and black boots, black wrist bands."
+  },
+  {
+    "label": "canonical-19",
+    "kind": "canonical",
+    "members": [
+      "spikedudley",
+      "haku",
+      "viscera"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-19.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-19-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Spike Dudley: small slim wrestler, black sleeveless T-shirt with white chest graphic, loose black-and-white camouflage long pants, black elbow pads and boots, white wrist tape. BLOCK 2, rows 5-8: Haku: bare chest, purple long tights with dark green/black thigh and calf shapes, black knee pads and black boots, white wrist tape. BLOCK 3, rows 9-12: Viscera: extremely heavy very large body, black full long-sleeved loose shirt with gray vertical chest panel, black baggy long pants and black boots."
+  },
+  {
+    "label": "canonical-20",
+    "kind": "canonical",
+    "members": [
+      "mideon",
+      "stevenrichards",
+      "bullbuchanan"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-20.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-20-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: Mideon: stocky body, plain black sleeveless shirt with dark subtle emblem, dark green/black long pants, black boots, tattooed upper arms. BLOCK 2, rows 5-8: Steven Richards: white short-sleeved collared shirt with black necktie, dark brown long trousers, black boots, white wrist tape. BLOCK 3, rows 9-12: Bull Buchanan: large muscular body, white sleeveless collared shirt with black necktie, black long pants, black boots, white wrist tape."
+  },
+  {
+    "label": "canonical-21",
+    "kind": "canonical",
+    "members": [
+      "takamichinoku",
+      "funaki",
+      "essarios"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-21.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-21-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by12rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 3 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: TAKA Michinoku: bare chest, blue long tights with large white angular knee and side shapes, blue/white boots, white wrist tape. BLOCK 2, rows 5-8: Funaki: blue sleeveless top with small white/red chest motif, short blue/white tights, black knee pads, tall blue/white boots, blue elbow pads and white wrist tape. BLOCK 3, rows 9-12: Essa Rios: bare chest, red long tights with black/dark blue angular leg designs, black boots and black wrist bands."
+  },
+  {
+    "label": "canonical-22",
+    "kind": "canonical",
+    "members": [
+      "kkwik"
+    ],
+    "input": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-22.png",
+    "reference": "/workspace/superfirex/assets/full-roster-v1/inputs/canonical-22-refs.png",
+    "prompt": "Edit FIRST image, technical SNES sports sprite textures; SECOND shows the matching labeled adult professional wrestlers. Return EXACTLY 8columns by4rows with uniform16x16 cells scaled up, solid pure BLACK background, NO gutters, labels or grid. 1 CHARACTER BLOCKS stacked vertically, FOUR rows per wrestler. Within EACH block: ROW1 =8 disconnected CHEST-only patches; ROW2 =8 ABDOMEN/WAIST-only patches; ROW3 =8 UPPER-LEG/THIGH-only patches; ROW4 =8 LOWER-LEG/KNEE/BOOT-shaft patches. These are separate costume pieces, NOT full figures. NEVER add heads, hair, faces, hands or extra limbs to chest/waist patches. Keep source silhouette/size/anchor for every piece. Preserve each row's original facing sequence: front,3/4front,side,3/4back,back,front,3/4front,side. Do not replace rear views with fronts. Match reference clothing colors and bold motifs; tiny logos become simple pixel shapes. Bare chests stay skin; closed shirts cover chest AND upper abdomen above trousers, no accidental open belly or suspenders. Upper legs carry the reference trouser/tights patterns. Knees and boots match reference colors, no unwanted long white shin stripe on black boots. Pixel art, simple broad16-color shading, all cells isolated. BLOCK 1, rows 1-4: K-Kwik: black sleeveless athletic top with small silver chest print, loose black long trousers with white/silver side shapes, black boots and wrist bands."
+  }
+]

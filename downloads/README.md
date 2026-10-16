@@ -1,3 +1,23 @@
+# Güncel: 72 WWF güreşçisi — referans görünüşleri v1
+
+[**Hazır ROM paketini indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-72-reference-v1.zip)
+
+ZIP'i açıp `raw-attitude-72-reference-v1.sfc` dosyasını Snes9x 1.62.3'te yükleyin. Eski save-state'i kullanmadan yeni maç başlatın. Hazır ROM'a ayrıca IPS uygulamayın.
+
+İlk beş onaylı görünüş korunur; kalan 67 erkek güreşçi gönderilen referanslara göre yenilendi. Kadınlar (Chyna dahil), Vince ve Shane'in yerlerindeki 12 özgün oyun güreşçisi profil, portre ve dört kıyafet seçeneğiyle geri döndü. Bu 12 kişi en son **ORIGINAL** sayfasındadır. İlk beş sayfada **72 WWF** güreşçisi vardır: **16 / 16 / 16 / 16 / 8**. **Hurricane yerine Kurrgan**, son WWF sırasındadır; giant gövdesi, hız/ability ve moveset'i güncellenmiştir.
+
+![Gerçek maçlardan alınmış karakter örnekleri](roster-72-showcase.png)
+
+[84 seçimin tamamı](roster-84-all-selections.png) · [84 güreşçinin maç görüntüleri](roster-84-all-in-game.png) · [Hareket kaydı](roster-72-gameplay.gif) · [Kurulum ve kapsam](ROSTER_72_REFERENCE_V1_TR.txt) · [Kadro sırası](roster-84-reference-v1.csv)
+
+Snes9x 1.62.3 libretro ile boş SRAM'dan açılış, 84 seçim ve 42 maçta 84 güreşçi yüklenmesi doğrulandı. 67 yeni kafa akışı ve sekiz gövde parçasının RAM adresleri kontrol edildi. 14.000 karelik CPU ip testi ve 6.000 karelik Kane–Kurrgan CPU maçı da geçti. [Çalışma testi](roster-72-runtime-validation.json) · [Koruma/geri dönüş testi](roster-72-static-validation.json) · [İp testi](roster-72-rope-validation.json) · [Teknik notlar](../research/FULL_ROSTER_REFERENCE_V1.md)
+
+ROM 8 MiB ExHiROM'a genişletildi. Kostümler özgün oyunun animasyon geometrisine uyarlandığı için küçük desenler, dövmeler ve logolar yaklaşık temsildir; bazı düz parçalar uygun renkteki özgün modülleri kullanır. Kurrgan'ın Paralyzer'ı mevcut Cobra Claw animasyonuyla temsil edilir. Diğer WWF moveset/ability değerleri önceki sürümden korunur. Her oyun modu ve her hareket etkileşimi ayrı ayrı denenmiş değildir.
+
+---
+
+Önceki sürümler:
+
 # Güncel: Mankind gömlek ve kravat düzeltmesi — v2
 
 [**Güncel ilk beş karakter ROM paketini indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-reference-five-v2-mankind-tie.zip)
