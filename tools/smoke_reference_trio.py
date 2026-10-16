@@ -62,6 +62,11 @@ print('PASS 84 selections and page counts',flush=True)
 heads={label:(a.art_dir/(label+'-heads.bin')).read_bytes()for label in SPECS}
 heads.update({label:(a.pair_art_dir/(label+'-heads.bin')).read_bytes()for label in ['austin','rock']})
 parts={label:s['parts']for label,s in SPECS.items()};parts.update({'austin':{0xcc:0xefc8},'rock':{0xc8:0xf308,0xca:0xf208,0xcc:0xf408}})
+appearance_manifest=a.art_dir.parent/'manifest.json'
+if appearance_manifest.exists():
+ for label,record in json.loads(appearance_manifest.read_text()).get('art',{}).items():
+  if label in parts and 'part_overrides' in record:
+   parts[label]={int(k,16):int(v,16)for k,v in record['part_overrides'].items()}
 matches=[]
 for first,second,labels in [(2,3,('hhh','undertaker')),(4,0,('mankind','austin')),(1,2,('rock','hhh'))]:
  e.load(out/'page-0.state');e.run(1);cursor(first);tap('b');tap('b');cursor(second,1);tap('b',1);tap('b',1)

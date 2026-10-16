@@ -1,3 +1,25 @@
+# Güncel: Mankind gömlek ve kravat düzeltmesi — v2
+
+[**Güncel ilk beş karakter ROM paketini indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-reference-five-v2-mankind-tie.zip)
+
+ZIP’i çıkarıp `raw-attitude-reference-five-v2-mankind-tie.sfc` dosyasını açın. Eski save-state’i yüklemeden **DREAM MATCH → WWF 01 → MANKIND** ile yeni maç başlatın. Hazır ROM’a ayrıca IPS uygulamayın; ek SRAM gerekmez.
+
+Mankind’ın göğüs ve karın çizimleri birlikte düzeltildi: kapalı beyaz gömlek, belirgin yaka ve ortadan inen koyu siyah kravat. Önceki kahverengi singlet/askı görünümü kaldırıldı; kahverengi pantolon belden başlıyor.
+
+**Austin, Rock, Triple H, Undertaker, RAW ring ve Mankind’ın başı/maskesi ile diğer parçaları korunur.** Tüm yerleşik profil kayıtları, hareketler, ability değerleri, portreler ve seçim düzeni aynıdır. Diğer 79 görünüş henüz referanslarla yeniden hazırlanmadı.
+
+![Gerçek ROM seçim ekranlarından önce/sonra](mankind-tie-before-after.png)
+
+[Gerçek maç hareket kaydı (GIF)](mankind-tie-gameplay.gif) · [Kurulum](MANKIND_TIE_V2_TR.txt) · [Çalışma testi](mankind-tie-runtime-validation.json) · [Teknik notlar](../research/MANKIND_TIE_V2.md)
+
+Snes9x 1.62.3 libretro çekirdeğinde boş SRAM ile açılış, 84 seçim kaydı, ilk beş karakterin gerçek maçtaki kafa/parça adresleri, koşu/vuruş/taunt ve 3600 karelik CPU maçı kontrol edildi. Diğer karakterlerin grafiklerinin ve ring verilerinin değişmediği ROM bayt sınırlarıyla denetlendi. Windows arayüzü ve diğer maç modları ayrıca çalıştırılmadı.
+
+ROM SHA256: `1a9d07a5aac9170627ad3c46be2b9bc4f5375b7292103c1775b92b0c2a458526`.
+
+---
+
+Önceki sürümler:
+
 # Referanslı ilk beş karakter — güncel sürüm
 
 [**Triple H, Mankind ve yeni Undertaker’ı içeren ROM paketini indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-reference-five-v1.zip)

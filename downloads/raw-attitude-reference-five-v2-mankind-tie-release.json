@@ -1,0 +1,152 @@
+{
+  "zip_sha256": "4f6ac4b96f3b92cab340d8a13a551077e40fb0b98263ebf56ebb531e53d2b06f",
+  "rom_sha256": "1a9d07a5aac9170627ad3c46be2b9bc4f5375b7292103c1775b92b0c2a458526",
+  "zip_bytes": 4229149,
+  "manifest": {
+    "version": "raw-attitude-reference-five-v2-mankind-tie",
+    "base_sha256": "cf330bb7c4e3ed3966667ee5547e6c75103c2b1baffdf60686d253e41c3f8044",
+    "rom_sha256": "1a9d07a5aac9170627ad3c46be2b9bc4f5375b7292103c1775b92b0c2a458526",
+    "modified_roster_ranks": [
+      5
+    ],
+    "retained_reference_ranks": [
+      1,
+      2
+    ],
+    "other_81_native_profiles_unchanged": true,
+    "moves_abilities_unchanged": true,
+    "new_head_views": 144,
+    "art": {
+      "hhh": {
+        "rank": 3,
+        "head_model": 26,
+        "head_resource": "0x62",
+        "head_source": "0xf4984",
+        "head_views": 48,
+        "changed_head_pixels": 5790,
+        "part_overrides": {
+          "0xc6": "0xf760",
+          "0xc8": "0xf308",
+          "0xca": "0xf208",
+          "0xcc": "0xf488",
+          "0xd0": "0xf838"
+        }
+      },
+      "mankind": {
+        "rank": 5,
+        "head_model": 28,
+        "head_resource": "0x63",
+        "head_source": "0xf6184",
+        "head_views": 48,
+        "changed_head_pixels": 5180,
+        "part_overrides": {
+          "0xc6": "0xef08",
+          "0xca": "0xf088",
+          "0xcc": "0xf3c8",
+          "0xc8": "0xf9e8"
+        }
+      },
+      "undertaker": {
+        "rank": 4,
+        "head_model": 56,
+        "head_resource": "0x61",
+        "head_source": "0x1e7e0",
+        "head_views": 48,
+        "changed_head_pixels": 4040,
+        "part_overrides": {
+          "0xc6": "0xf448",
+          "0xca": "0xf588",
+          "0xcc": "0xf7cc",
+          "0xd6": "0xf8a4"
+        }
+      },
+      "mankind-torso": {
+        "pointer": "0xef08",
+        "changed_pixels": 20884
+      },
+      "undertaker-torso": {
+        "pointer": "0xf448",
+        "changed_pixels": 14939
+      },
+      "hhh-torso": {
+        "pointer": "0xf760",
+        "changed_pixels": 119
+      },
+      "mankind-upperarms": {
+        "pointer": "0xf088",
+        "changed_pixels": 7479
+      },
+      "undertaker-upperarms": {
+        "pointer": "0xf588",
+        "changed_pixels": 8595
+      },
+      "undertaker-forearms": {
+        "pointer": "0xf7cc",
+        "changed_pixels": 8245
+      },
+      "undertaker-hands": {
+        "pointer": "0xf8a4",
+        "changed_pixels": 4680
+      },
+      "hhh-wrists": {
+        "pointer": "0xf488",
+        "changed_pixels": 1948
+      },
+      "mankind-wrists": {
+        "pointer": "0xf3c8",
+        "changed_pixels": 1948
+      },
+      "hhh-lowerlegs": {
+        "pointer": "0xf838",
+        "views": 216,
+        "changed_pixels": 14782
+      }
+    },
+    "notes": [
+      "Only Mankind chest/abdomen art is revised; all other character art stays byte-identical.",
+      "The closed white shirt covers the previous brown singlet abdomen; a narrow black tie continues to the waist.",
+      "Profiles, heads, palettes, moves, abilities, portraits and ring data remain unchanged."
+    ],
+    "changed_bytes": 22668,
+    "changed_regions": [
+      [
+        "0xffdc",
+        "0xffe0"
+      ],
+      [
+        "0x10bef",
+        "0x10bf5"
+      ],
+      [
+        "0x1e700",
+        "0x1e71b"
+      ],
+      [
+        "0x2f0800",
+        "0x2f4800"
+      ],
+      [
+        "0x39e800",
+        "0x3a2800"
+      ]
+    ],
+    "all_native_profiles_unchanged": true,
+    "all_other_character_graphics_unchanged": true,
+    "ring_bytes_unchanged": true,
+    "mankind_shirt_art": {
+      "chest": {
+        "rom_offset": "0x2f0800",
+        "changed_pixels": 7564
+      },
+      "hips": {
+        "rom_offset": "0x39e800",
+        "changed_pixels": 21637
+      }
+    },
+    "patch_source_sha256": {
+      "from-reference-five-v1": "cf330bb7c4e3ed3966667ee5547e6c75103c2b1baffdf60686d253e41c3f8044",
+      "from-original-sydra-v7": "30a774f32e3e132d7e0c16f964a59b8720c1cc081e20159f85a22635f13e28fa"
+    },
+    "ips_roundtrips_verified": true
+  }
+}
