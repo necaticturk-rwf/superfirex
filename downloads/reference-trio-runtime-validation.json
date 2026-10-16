@@ -1,0 +1,414 @@
+{
+  "rom_sha256": "cf330bb7c4e3ed3966667ee5547e6c75103c2b1baffdf60686d253e41c3f8044",
+  "core": "Snes9x 1.62.3 libretro",
+  "cold_empty_sram": true,
+  "selected": [
+    {
+      "rank": 1,
+      "model": 8
+    },
+    {
+      "rank": 2,
+      "model": 9
+    },
+    {
+      "rank": 3,
+      "model": 26
+    },
+    {
+      "rank": 4,
+      "model": 56
+    },
+    {
+      "rank": 5,
+      "model": 28
+    },
+    {
+      "rank": 6,
+      "model": 67
+    },
+    {
+      "rank": 7,
+      "model": 34
+    },
+    {
+      "rank": 8,
+      "model": 63
+    },
+    {
+      "rank": 9,
+      "model": 83
+    },
+    {
+      "rank": 10,
+      "model": 34
+    },
+    {
+      "rank": 11,
+      "model": 76
+    },
+    {
+      "rank": 12,
+      "model": 27
+    },
+    {
+      "rank": 13,
+      "model": 12
+    },
+    {
+      "rank": 14,
+      "model": 13
+    },
+    {
+      "rank": 15,
+      "model": 34
+    },
+    {
+      "rank": 16,
+      "model": 34
+    },
+    {
+      "rank": 17,
+      "model": 87
+    },
+    {
+      "rank": 18,
+      "model": 40
+    },
+    {
+      "rank": 19,
+      "model": 89
+    },
+    {
+      "rank": 20,
+      "model": 3
+    },
+    {
+      "rank": 21,
+      "model": 40
+    },
+    {
+      "rank": 22,
+      "model": 34
+    },
+    {
+      "rank": 23,
+      "model": 41
+    },
+    {
+      "rank": 24,
+      "model": 40
+    },
+    {
+      "rank": 25,
+      "model": 65
+    },
+    {
+      "rank": 26,
+      "model": 85
+    },
+    {
+      "rank": 27,
+      "model": 89
+    },
+    {
+      "rank": 28,
+      "model": 38
+    },
+    {
+      "rank": 29,
+      "model": 83
+    },
+    {
+      "rank": 30,
+      "model": 57
+    },
+    {
+      "rank": 31,
+      "model": 6
+    },
+    {
+      "rank": 32,
+      "model": 99
+    },
+    {
+      "rank": 33,
+      "model": 39
+    },
+    {
+      "rank": 34,
+      "model": 67
+    },
+    {
+      "rank": 35,
+      "model": 34
+    },
+    {
+      "rank": 36,
+      "model": 87
+    },
+    {
+      "rank": 37,
+      "model": 89
+    },
+    {
+      "rank": 38,
+      "model": 23
+    },
+    {
+      "rank": 39,
+      "model": 34
+    },
+    {
+      "rank": 40,
+      "model": 43
+    },
+    {
+      "rank": 41,
+      "model": 6
+    },
+    {
+      "rank": 42,
+      "model": 23
+    },
+    {
+      "rank": 43,
+      "model": 99
+    },
+    {
+      "rank": 44,
+      "model": 99
+    },
+    {
+      "rank": 45,
+      "model": 99
+    },
+    {
+      "rank": 46,
+      "model": 99
+    },
+    {
+      "rank": 47,
+      "model": 64
+    },
+    {
+      "rank": 48,
+      "model": 44
+    },
+    {
+      "rank": 49,
+      "model": 23
+    },
+    {
+      "rank": 50,
+      "model": 40
+    },
+    {
+      "rank": 51,
+      "model": 85
+    },
+    {
+      "rank": 52,
+      "model": 38
+    },
+    {
+      "rank": 53,
+      "model": 81
+    },
+    {
+      "rank": 54,
+      "model": 33
+    },
+    {
+      "rank": 55,
+      "model": 70
+    },
+    {
+      "rank": 56,
+      "model": 30
+    },
+    {
+      "rank": 57,
+      "model": 53
+    },
+    {
+      "rank": 58,
+      "model": 53
+    },
+    {
+      "rank": 59,
+      "model": 53
+    },
+    {
+      "rank": 60,
+      "model": 54
+    },
+    {
+      "rank": 61,
+      "model": 86
+    },
+    {
+      "rank": 62,
+      "model": 64
+    },
+    {
+      "rank": 63,
+      "model": 71
+    },
+    {
+      "rank": 64,
+      "model": 10
+    },
+    {
+      "rank": 65,
+      "model": 76
+    },
+    {
+      "rank": 66,
+      "model": 47
+    },
+    {
+      "rank": 67,
+      "model": 51
+    },
+    {
+      "rank": 68,
+      "model": 17
+    },
+    {
+      "rank": 69,
+      "model": 76
+    },
+    {
+      "rank": 70,
+      "model": 60
+    },
+    {
+      "rank": 71,
+      "model": 58
+    },
+    {
+      "rank": 72,
+      "model": 87
+    },
+    {
+      "rank": 73,
+      "model": 38
+    },
+    {
+      "rank": 74,
+      "model": 5
+    },
+    {
+      "rank": 75,
+      "model": 73
+    },
+    {
+      "rank": 76,
+      "model": 55
+    },
+    {
+      "rank": 77,
+      "model": 25
+    },
+    {
+      "rank": 78,
+      "model": 41
+    },
+    {
+      "rank": 79,
+      "model": 89
+    },
+    {
+      "rank": 80,
+      "model": 99
+    },
+    {
+      "rank": 81,
+      "model": 99
+    },
+    {
+      "rank": 82,
+      "model": 99
+    },
+    {
+      "rank": 83,
+      "model": 99
+    },
+    {
+      "rank": 84,
+      "model": 99
+    }
+  ],
+  "matches": [
+    {
+      "players": [
+        "hhh",
+        "undertaker"
+      ],
+      "head_and_part_checks": true,
+      "frames_after_intro": 660
+    },
+    {
+      "players": [
+        "mankind",
+        "austin"
+      ],
+      "head_and_part_checks": true,
+      "frames_after_intro": 660
+    },
+    {
+      "players": [
+        "rock",
+        "hhh"
+      ],
+      "head_and_part_checks": true,
+      "frames_after_intro": 660
+    }
+  ],
+  "custom_head_bytes_and_part_pointers_verified": true,
+  "other_81_native_profiles_unchanged": true,
+  "austin_rock_art_unchanged": true,
+  "moves_abilities_unchanged": true,
+  "scripted_actions": [
+    "hhh:run-down",
+    "hhh:run-up",
+    "hhh:run-left",
+    "hhh:run-right",
+    "hhh:a",
+    "hhh:b",
+    "hhh:y",
+    "hhh:l",
+    "mankind:run-down",
+    "mankind:run-up",
+    "mankind:run-left",
+    "mankind:run-right",
+    "mankind:a",
+    "mankind:b",
+    "mankind:y",
+    "mankind:l",
+    "undertaker:run-down",
+    "undertaker:run-up",
+    "undertaker:run-left",
+    "undertaker:run-right",
+    "undertaker:a",
+    "undertaker:b",
+    "undertaker:y",
+    "undertaker:l"
+  ],
+  "cpu_match_frames_after_intro": 3600,
+  "page_counts": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    4
+  ],
+  "limitations": [
+    "Dream Match tested; other modes and every move interaction not exhaustively verified.",
+    "Tattoos and tiny costume emblems are approximations.",
+    "Selection portraits retain previous beta artwork.",
+    "Only the first five appearances have individual reference revisions."
+  ]
+}

@@ -1,3 +1,27 @@
+# Referanslı ilk beş karakter — güncel sürüm
+
+[**Triple H, Mankind ve yeni Undertaker’ı içeren ROM paketini indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-reference-five-v1.zip)
+
+ZIP’i çıkarıp `raw-attitude-reference-five-v1.sfc` dosyasını Snes9x’te baştan açın. Eski save-state’i yüklemeden **DREAM MATCH → WWF 01 → HHH / TAKER / MANKIND** ile yeni maç başlatın. Ek SRAM veya EDIT’ten yükleme gerekmez.
+
+Triple H için uzun kahverengi saç/sakal, beyaz bilek bantları ve özel siyah-beyaz diz/bot grafikleri; Mankind için deri maske, beyaz gömlek/kravat, kısa kollar ve kahverengi pantolon; Undertaker için yeni yüz/uzun siyah saç, açık ten, siyah yelek, dövmeli kollar ve ayrı el grafiklerinde siyah eldivenler hazırlandı. Üç karakterin 144 kafa açısı yenilendi.
+
+**Beğenilen Stone Cold ve The Rock görünüşleri, RAW ring ve önem sırasına göre seçim düzeni bu pakette korunur.** Hareket/ability değerleri ve portreler önceki profillerdendir. İlk beş karakterin referans revizyonları yapılmıştır; diğer 79 görünüş henüz referanslarla yeniden hazırlanmadı. Küçük dövmeler ve logolar piksel düzeyinde yaklaşık.
+
+![Güncel ROM’dan alınan gerçek koşu kareleri](reference-trio-in-game-views.png)
+
+[**Gerçek oyun hareket kaydı (GIF)**](reference-trio-gameplay.gif) · [Triple H seçimi](trio-hhh-selection.png) · [Mankind seçimi](trio-mankind-selection.png) · [Undertaker seçimi](trio-undertaker-selection.png)
+
+Snes9x 1.62.3 libretro çekirdeğinde boş SRAM ile baştan açılış, 84 seçim modeli, altı sayfa, beş karakterin maç içi kafa/grafik adresleri, yeni üç karakterin dört yön koşusu/vuruşları/taunt’ları ve 3600 karelik HHH–Mankind CPU maçı doğrulandı. Ayrı 12000 karelik CPU maçında kullanılan dinamik ip grafikleri özgünleriyle karşılaştırıldı. Windows arayüzü ve diğer maç modları burada ayrıca doğrulanmadı.
+
+[Kurulum ve kapsam](REFERENCE_FIVE_V1_TR.txt) · [Çalışma testi](reference-trio-runtime-validation.json) · [İp testi](reference-trio-rope-validation.json) · [Teknik notlar](../research/REFERENCE_TRIO_V1.md)
+
+ROM SHA256: `cf330bb7c4e3ed3966667ee5547e6c75103c2b1baffdf60686d253e41c3f8044`.
+
+---
+
+Önceki sürümler:
+
 # Stone Cold / The Rock — referans görünüş denemesi v1
 
 [**Yeni ROM ve IPS yamalarını içeren ZIP’i indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-austin-rock-reference-v1.zip)
