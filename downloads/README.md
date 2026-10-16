@@ -1,3 +1,27 @@
+# Stone Cold / The Rock — referans görünüş denemesi v1
+
+[**Yeni ROM ve IPS yamalarını içeren ZIP’i indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-austin-rock-reference-v1.zip)
+
+ZIP’i çıkarıp `raw-austin-rock-reference-v1.sfc` dosyasını Snes9x’te baştan açın. Eski save-state’i yüklemeyin. **DREAM MATCH → WWF 01 → AUSTIN / ROCK**. Ek SRAM veya EDIT’ten yükleme gerekmez.
+
+Austin’in 48 kafa açısı kel kafa ve sakalla; Rock’ın 48 kafa açısı kısa saç ve tıraşlı yüzle yeniden hazırlandı. Austin’in bileklikleri, Rock’ın dirseklikleri ve kısa tayt ayrıntıları için özel grafikler eklendi. Gövde oranları ve ekipmanları referansa göre ayarlandı. Portreler, hareketler ve ability değerleri önceki betadan korunur.
+
+**Yalnız bu iki görünüş yenilendi. Diğer 82 görünüş önceki, kullanıcı tarafından beğenilmeyen betadan kalıyor ve ayrıca yeniden hazırlanacak. Undertaker ve kabul edilen RAW ring korunur.** Gövde anatomisi/botlar mevcut modüler parçaları kullanır; küçük kıyafet logoları okunabilir yazı değildir. Görsel benzerlik kullanıcı değerlendirmesine açık bir denemedir.
+
+![Bu ROM’dan alınan gerçek koşu kareleri](reference-pair-in-game-views.png)
+
+[**Gerçek oyun hareket kaydı (GIF)**](reference-pair-gameplay.gif) · [Austin seçim ekranı](austin-selection.png) · [Rock seçim ekranı](rock-selection.png)
+
+84 seçim modeli; iki oyuncunun yeni kafa baytları/kol-gövde adresleri; dört yönde koşu, vuruş ve taunt; Undertaker CPU maçı Snes9x 1.62.3 libretro çekirdeğinde kontrol edildi. Ayrı 12000 karelik CPU maçında kullanılan dinamik ip grafikleri özgün grafiklerle karşılaştırıldı. Windows arayüzü burada çalıştırılmadı.
+
+[Kurulum ve sınırlar](AUSTIN_ROCK_REFERENCE_V1_TR.txt) · [Çalışma testi](reference-pair-runtime-validation.json) · [İp testi](reference-pair-rope-validation.json) · [Teknik kaynak notları](../research/REFERENCE_PAIR_V1.md)
+
+ROM SHA256: `8456e9dab3d7e6ad01b38d4dd33b9fe8b399d31fe98a2849c643cd3a930a0eee`.
+
+---
+
+Önceki sürümler aşağıda arşivlenmiştir. 84 kişilik betanın görünümleri son sürüm olarak kabul edilmemiştir.
+
 # WWF Attitude Era 84 — native beta
 
 [**84 kişilik kadro ve RAW ring içeren ZIP’i indir**](https://github.com/necaticturk-rwf/superfirex/raw/refs/heads/raw-ring-v1/downloads/raw-attitude-84-native-beta.zip)

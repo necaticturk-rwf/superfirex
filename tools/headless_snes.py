@@ -9,7 +9,7 @@ class Emulator:
     keys={'b':0,'y':1,'select':2,'start':3,'up':4,'down':5,'left':6,'right':7,'a':8,'x':9,'l':10,'r':11}
     def __init__(self,rom,core):
         self.core=C.CDLL(str(core))
-        self.buttons=set();self.pixels=None;self.format=0;self.frames=0
+        self.buttons=set();self.extra_buttons={};self.pixels=None;self.format=0;self.frames=0
         self.directory=C.create_string_buffer(b'/tmp')
         @C.CFUNCTYPE(C.c_bool,C.c_uint,C.c_void_p)
         def environment(cmd,data):
@@ -35,7 +35,9 @@ class Emulator:
         @C.CFUNCTYPE(None)
         def poll():pass
         @C.CFUNCTYPE(C.c_int16,C.c_uint,C.c_uint,C.c_uint,C.c_uint)
-        def state(port,device,index,key):return int(port==0 and key in self.buttons)
+        def state(port,device,index,key):
+            pressed=self.buttons if port==0 else self.extra_buttons.get(port,set())
+            return int(key in pressed)
         self.callbacks=[environment,video,audio,audio_batch,poll,state]
         for name,cb in zip(('environment','video_refresh','audio_sample','audio_sample_batch','input_poll','input_state'),self.callbacks):getattr(self.core,'retro_set_'+name)(cb)
         self.core.retro_init()

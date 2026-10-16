@@ -1,0 +1,372 @@
+{
+  "rom_sha256": "8456e9dab3d7e6ad01b38d4dd33b9fe8b399d31fe98a2849c643cd3a930a0eee",
+  "core": "Snes9x 1.62.3 libretro",
+  "cold_empty_sram": true,
+  "selected": [
+    {
+      "rank": 1,
+      "body": 8
+    },
+    {
+      "rank": 2,
+      "body": 9
+    },
+    {
+      "rank": 3,
+      "body": 34
+    },
+    {
+      "rank": 4,
+      "body": 63
+    },
+    {
+      "rank": 5,
+      "body": 39
+    },
+    {
+      "rank": 6,
+      "body": 67
+    },
+    {
+      "rank": 7,
+      "body": 34
+    },
+    {
+      "rank": 8,
+      "body": 63
+    },
+    {
+      "rank": 9,
+      "body": 83
+    },
+    {
+      "rank": 10,
+      "body": 34
+    },
+    {
+      "rank": 11,
+      "body": 76
+    },
+    {
+      "rank": 12,
+      "body": 27
+    },
+    {
+      "rank": 13,
+      "body": 12
+    },
+    {
+      "rank": 14,
+      "body": 13
+    },
+    {
+      "rank": 15,
+      "body": 34
+    },
+    {
+      "rank": 16,
+      "body": 34
+    },
+    {
+      "rank": 17,
+      "body": 87
+    },
+    {
+      "rank": 18,
+      "body": 40
+    },
+    {
+      "rank": 19,
+      "body": 89
+    },
+    {
+      "rank": 20,
+      "body": 3
+    },
+    {
+      "rank": 21,
+      "body": 40
+    },
+    {
+      "rank": 22,
+      "body": 34
+    },
+    {
+      "rank": 23,
+      "body": 41
+    },
+    {
+      "rank": 24,
+      "body": 40
+    },
+    {
+      "rank": 25,
+      "body": 65
+    },
+    {
+      "rank": 26,
+      "body": 85
+    },
+    {
+      "rank": 27,
+      "body": 89
+    },
+    {
+      "rank": 28,
+      "body": 38
+    },
+    {
+      "rank": 29,
+      "body": 83
+    },
+    {
+      "rank": 30,
+      "body": 57
+    },
+    {
+      "rank": 31,
+      "body": 6
+    },
+    {
+      "rank": 32,
+      "body": 99
+    },
+    {
+      "rank": 33,
+      "body": 39
+    },
+    {
+      "rank": 34,
+      "body": 67
+    },
+    {
+      "rank": 35,
+      "body": 34
+    },
+    {
+      "rank": 36,
+      "body": 87
+    },
+    {
+      "rank": 37,
+      "body": 89
+    },
+    {
+      "rank": 38,
+      "body": 23
+    },
+    {
+      "rank": 39,
+      "body": 34
+    },
+    {
+      "rank": 40,
+      "body": 43
+    },
+    {
+      "rank": 41,
+      "body": 6
+    },
+    {
+      "rank": 42,
+      "body": 23
+    },
+    {
+      "rank": 43,
+      "body": 99
+    },
+    {
+      "rank": 44,
+      "body": 99
+    },
+    {
+      "rank": 45,
+      "body": 99
+    },
+    {
+      "rank": 46,
+      "body": 99
+    },
+    {
+      "rank": 47,
+      "body": 64
+    },
+    {
+      "rank": 48,
+      "body": 44
+    },
+    {
+      "rank": 49,
+      "body": 23
+    },
+    {
+      "rank": 50,
+      "body": 40
+    },
+    {
+      "rank": 51,
+      "body": 85
+    },
+    {
+      "rank": 52,
+      "body": 38
+    },
+    {
+      "rank": 53,
+      "body": 81
+    },
+    {
+      "rank": 54,
+      "body": 33
+    },
+    {
+      "rank": 55,
+      "body": 70
+    },
+    {
+      "rank": 56,
+      "body": 30
+    },
+    {
+      "rank": 57,
+      "body": 53
+    },
+    {
+      "rank": 58,
+      "body": 53
+    },
+    {
+      "rank": 59,
+      "body": 53
+    },
+    {
+      "rank": 60,
+      "body": 54
+    },
+    {
+      "rank": 61,
+      "body": 86
+    },
+    {
+      "rank": 62,
+      "body": 64
+    },
+    {
+      "rank": 63,
+      "body": 71
+    },
+    {
+      "rank": 64,
+      "body": 10
+    },
+    {
+      "rank": 65,
+      "body": 76
+    },
+    {
+      "rank": 66,
+      "body": 47
+    },
+    {
+      "rank": 67,
+      "body": 51
+    },
+    {
+      "rank": 68,
+      "body": 17
+    },
+    {
+      "rank": 69,
+      "body": 76
+    },
+    {
+      "rank": 70,
+      "body": 60
+    },
+    {
+      "rank": 71,
+      "body": 58
+    },
+    {
+      "rank": 72,
+      "body": 87
+    },
+    {
+      "rank": 73,
+      "body": 38
+    },
+    {
+      "rank": 74,
+      "body": 5
+    },
+    {
+      "rank": 75,
+      "body": 73
+    },
+    {
+      "rank": 76,
+      "body": 55
+    },
+    {
+      "rank": 77,
+      "body": 25
+    },
+    {
+      "rank": 78,
+      "body": 41
+    },
+    {
+      "rank": 79,
+      "body": 89
+    },
+    {
+      "rank": 80,
+      "body": 99
+    },
+    {
+      "rank": 81,
+      "body": 99
+    },
+    {
+      "rank": 82,
+      "body": 99
+    },
+    {
+      "rank": 83,
+      "body": 99
+    },
+    {
+      "rank": 84,
+      "body": 99
+    }
+  ],
+  "custom_head_bytes_verified": true,
+  "custom_arm_and_hip_pointers_verified": true,
+  "other_82_profiles_unchanged": true,
+  "first_two_moves_abilities_unchanged": true,
+  "scripted_actions": [
+    "austin:run-down",
+    "austin:run-up",
+    "austin:run-left",
+    "austin:run-right",
+    "austin:a",
+    "austin:b",
+    "austin:y",
+    "austin:l",
+    "rock:run-down",
+    "rock:run-up",
+    "rock:run-left",
+    "rock:run-right",
+    "rock:a",
+    "rock:b",
+    "rock:y",
+    "rock:l"
+  ],
+  "undertaker_cpu_frames": 1800,
+  "limitations": [
+    "Visual likeness requires user review.",
+    "Tiny trunk logos cannot be read as text.",
+    "Other 82 appearances have not been redone.",
+    "This is a Dream Match check, not exhaustive move or game-mode coverage."
+  ]
+}

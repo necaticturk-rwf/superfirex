@@ -1,0 +1,56 @@
+{
+  "zip_sha256": "09b6b241858c8c8759e5a6381b6cd1f521a13ec39b235b626b1c918b18b15c51",
+  "rom_sha256": "8456e9dab3d7e6ad01b38d4dd33b9fe8b399d31fe98a2849c643cd3a930a0eee",
+  "zip_bytes": 5444982,
+  "manifest": {
+    "version": "raw-austin-rock-reference-v1",
+    "heads_only_development": false,
+    "base_sha256": "77aadb605a61430b065eafa5bcb33a52dac37ca627a6a99533949b9b9f695298",
+    "rom_sha256": "8456e9dab3d7e6ad01b38d4dd33b9fe8b399d31fe98a2849c643cd3a930a0eee",
+    "modified_roster_ranks": [
+      1,
+      2
+    ],
+    "art": {
+      "austin": {
+        "head_model": 8,
+        "head_views": 48,
+        "changed_head_pixels": 4629
+      },
+      "rock": {
+        "head_model": 9,
+        "head_views": 48,
+        "changed_head_pixels": 3496
+      },
+      "austin-wrists": {
+        "edited_skin_pixels": 1948,
+        "source": "austin-forearms-b-baseline.bin",
+        "destination": "0x2fc800"
+      },
+      "rock-upperarms": {
+        "edited_skin_pixels": 3080,
+        "source": "austin-forearms-a-baseline.bin",
+        "destination": "0x320800"
+      },
+      "rock-forearms": {
+        "edited_skin_pixels": 1842,
+        "source": "austin-forearms-b-baseline.bin",
+        "destination": "0x340800"
+      },
+      "rock-trunks": {
+        "changed_cloth_pixels": 3896,
+        "destination": "0x330800"
+      }
+    },
+    "notes": [
+      "Only Austin/Rock are revised; the remaining roster has not been remade.",
+      "Trunk logos are miniature pixel approximations, not readable text.",
+      "Moves and abilities are retained from the previous native profiles."
+    ],
+    "patch_source_sha256": {
+      "from-native-beta": "77aadb605a61430b065eafa5bcb33a52dac37ca627a6a99533949b9b9f695298",
+      "from-original-sydra-v7": "30a774f32e3e132d7e0c16f964a59b8720c1cc081e20159f85a22635f13e28fa"
+    },
+    "ips_roundtrips_verified": true
+  }
+}
